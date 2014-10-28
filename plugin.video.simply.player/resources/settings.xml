@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting id="quality" type="bool" label="30001" default="true"/>
+	</category>
+	<category label="30020">
+		<setting id="meta" type="bool" label="30021" default="true"/>
+		<setting id="fanart"   type="bool" label="30022" default="true" enable="!eq(-1,false)"/>
+	</category>
+	<category label="30040">
+		<setting id="movie_library" type="folder" label="30042" default="special://userdata/addon_data/plugin.video.simply.player/Movies"/>
+		<setting id="tv_library" type="folder" label="30043" default="special://userdata/addon_data/plugin.video.simply.player/TVShows"/>
+		<setting type="lsep" label="30041"/>
+		<setting type="lsep" label="[CR]"/>
+		<setting id="subscriptions_update" type="bool" label="30044" default="false"/>
+		<setting id="subscriptions_interval" type="enum" label="30045" values="2h|5h|10h|15h|24h" default="3" enable="!eq(-1,false)"/>
+		<setting id="subscriptions_updatelibrary" type="bool" label="30046" default="true" enable="eq(-2,true)"/>
+		<setting id="subscriptions_clean" type="bool" label="30047" default="true" enable="eq(-3,true)"/>
+		<setting id="subscriptions_run" type="text" default="1970-01-01 23:59:00.000000" visible="false"/>
+	</category>
+	<category label="30060">
+		<setting id="downloads" type="folder" label="30061" default=""/>
+	</category>
+	<category label="30080">
+		<setting id="subs" type="enum" label="30083" lvalues="30084|30085" default="0"/>
+		<setting type="lsep" label="[CR]"/>
+		<setting type="lsep" label="30081"/>
+		<setting type="lsep" label="30082"/>
+	</category>
+</settings>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<!-- PANHELLENIC -->
+		<setting id="MEGA" label="MEGA" type="bool" default="true" visible="true"/>
+		<setting id="MEGA (2)" label="MEGA (2)" type="bool" default="true" visible="true"/>
+		<setting id="ANT1" label="ANT1" type="bool" default="true" visible="true"/>
+		<setting id="STAR" label="STAR" type="bool" default="true" visible="true"/>
+		<setting id="STAR (2)" label="STAR (2)" type="bool" default="true" visible="true"/>
+		<setting id="ALPHA" label="ALPHA" type="bool" default="true" visible="true"/>
+		<setting id="SKAI" label="SKAI" type="bool" default="true" visible="true"/>
+		<setting id="E TV" label="E TV" type="bool" default="true" visible="true"/>
+		<setting id="MACEDONIA TV" label="MACEDONIA TV" type="bool" default="true" visible="true"/>
+		<setting id="NET" label="NET" type="bool" default="true" visible="false"/>
+		<setting id="ET3" label="ET3" type="bool" default="true" visible="true"/>
+		<setting id="NERIT" label="NERIT" type="bool" default="true" visible="true"/>
+		<setting id="NERIT SPORTS" label="NERIT SPORTS" type="bool" default="true" visible="true"/>
+		<setting id="BOYLH TV" label="BOYLH TV" type="bool" default="true" visible="true"/>
+		<setting id="EURONEWS" label="EURONEWS" type="bool" default="true" visible="true"/>
+	</category>
+	<category label="30020">
+		<!-- CYPRUS -->
+		<setting id="MEGA CYPRUS" label="MEGA CYPRUS" type="bool" default="true" visible="true"/>
+		<setting id="ANT1 CYPRUS" label="ANT1 CYPRUS" type="bool" default="true" visible="true"/>
+		<setting id="SIGMA" label="SIGMA" type="bool" default="true" visible="true"/>
+		<setting id="CAPITAL" label="CAPITAL" type="bool" default="true" visible="true"/>
+		<setting id="RIK SAT" label="RIK SAT" type="bool" default="true" visible="true"/>
+	</category>
+	<category label="30040">
+		<!-- THEMATIC -->
+		<setting id="NICKELODEON" label="NICKELODEON" type="bool" default="true" visible="false"/>
+		<setting id="NICKELODEON+" label="NICKELODEON+" type="bool" default="true" visible="false"/>
+		<setting id="MTV" label="MTV" type="bool" default="true" visible="false"/>
+		<setting id="MAD TV" label="MAD TV" type="bool" default="true" visible="true"/>
+		<setting id="MAD TV CYPRUS" label="MAD TV CYPRUS" type="bool" default="true" visible="true"/>
+		<setting id="MUSIC TV" label="MUSIC TV" type="bool" default="true" visible="false"/>
+		<setting id="GREEK CINEMA" label="GREEK CINEMA" type="bool" default="true" visible="true"/>
+		<setting id="LAMPSI TV" label="LAMPSI TV" type="bool" default="true" visible="false"/>
+		<setting id="ALPHA GATV" label="ALPHA GATV" type="bool" default="true" visible="true"/>
+		<setting id="CY SPORTS" label="CY SPORTS" type="bool" default="true" visible="false"/>
+		<setting id="ODIE TV" label="ODIE TV" type="bool" default="true" visible="true"/>
+	</category>
+	<category label="30060">
+		<!-- ATTICA -->
+		<setting id="KONTRA CHANNEL" label="KONTRA CHANNEL" type="bool" default="true" visible="true"/>
+		<setting id="EXTRA 3" label="EXTRA 3" type="bool" default="true" visible="true"/>
+		<setting id="ACTION 24" label="ACTION 24" type="bool" default="true" visible="false"/>
+		<setting id="ART CHANNEL" label="ART CHANNEL" type="bool" default="true" visible="true"/>
+		<setting id="ZOOM" label="ZOOM" type="bool" default="true" visible="false"/>
+		<setting id="ZOUGLA TV" label="ZOUGLA TV" type="bool" default="true" visible="true"/>
+		<setting id="ATTICA TV" label="ATTICA TV" type="bool" default="true" visible="false"/>
+		<setting id="HIGH TV" label="HIGH TV" type="bool" default="true" visible="false"/>
+		<setting id="BLUE SKY" label="BLUE SKY" type="bool" default="true" visible="true"/>
+		<setting id="CHANNEL 9" label="CHANNEL 9" type="bool" default="true" visible="false"/>
+		<setting id="SBC TV" label="SBC TV" type="bool" default="true" visible="false"/>
+		<setting id="SMILE TV" label="SMILE TV" type="bool" default="true" visible="false"/>
+		<!-- CENTRAL MACEDONIA -->
+		<setting id="TV 100" label="TV 100" type="bool" default="true" visible="true"/>
+		<setting id="4E TV" label="4E TV" type="bool" default="true" visible="true"/>
+		<setting id="EGNATIA TV" label="EGNATIA TV" type="bool" default="true" visible="true"/>
+		<setting id="VERGINA TV" label="VERGINA TV" type="bool" default="true" visible="true"/>
+		<setting id="GNOMI TV" label="GNOMI TV" type="bool" default="true" visible="false"/>
+		<setting id="EUROPE 1" label="EUROPE 1" type="bool" default="true" visible="true"/>
+		<setting id="DION TV" label="DION TV" type="bool" default="true" visible="true"/>
+		<setting id="XTV" label="XTV" type="bool" default="true" visible="false"/>
+		<setting id="TV THESS" label="TV THESS" type="bool" default="true" visible="false"/>
+		<setting id="PELLA TV" label="PELLA TV" type="bool" default="true" visible="false"/>
+		<setting id="TIME CHANNEL" label="TIME CHANNEL" type="bool" default="true" visible="false"/>
+		<setting id="EURO CHANNEL" label="EURO CHANNEL" type="bool" default="true" visible="false"/>
+		<setting id="KANALI 9" label="KANALI 9" type="bool" default="true" visible="false"/>
+		<!-- CENTRAL GREECE -->
+		<setting id="STAR KENTRIKIS ELLADOS" label="STAR KENTRIKIS ELLADOS" type="bool" default="true" visible="false"/>
+		<setting id="ENA TV" label="ENA TV" type="bool" default="true" visible="true"/>
+		<setting id="ETV" label="ETV" type="bool" default="true" visible="false"/>
+		<!-- THESSALY -->
+		<setting id="TRT" label="TRT" type="bool" default="true" visible="false"/>
+		<setting id="ASTRA TV" label="ASTRA TV" type="bool" default="true" visible="true"/>
+		<setting id="ZEUS" label="ZEUS" type="bool" default="true" visible="true"/>
+		<setting id="THESSALIA TV" label="THESSALIA TV" type="bool" default="true" visible="false"/>
+		<setting id="TV 10" label="TV 10" type="bool" default="true" visible="false"/>
+		<!-- EPIRUS AND WEST GREECE -->
+		<setting id="EPIRUS TV1" label="EPIRUS TV1" type="bool" default="true" visible="true"/>
+		<setting id="VIMA TV" label="VIMA TV" type="bool" default="true" visible="true"/>
+		<setting id="ITV" label="ITV" type="bool" default="true" visible="true"/>
+		<setting id="ACHELOOS TV" label="ACHELOOS TV" type="bool" default="true" visible="true"/>
+		<setting id="START TV" label="START TV" type="bool" default="true" visible="true"/>
+		<setting id="CORFU CHANNEL" label="CORFU CHANNEL" type="bool" default="true" visible="true"/>
+		<setting id="ART TV" label="ART TV" type="bool" default="true" visible="false"/>
+		<setting id="KOSMO TV" label="KOSMO TV" type="bool" default="true" visible="false"/>
+		<!-- PELOPONNESE AND WEST GREECE -->
+		<setting id="SUPER B" label="SUPER B" type="bool" default="true" visible="false"/>
+		<setting id="ACHAIA CHANNEL" label="ACHAIA CHANNEL" type="bool" default="true" visible="true"/>
+		<setting id="BEST TV" label="BEST TV" type="bool" default="true" visible="true"/>
+		<setting id="ORT" label="ORT" type="bool" default="true" visible="true"/>
+		<setting id="MESOGEIOS TV" label="MESOGEIOS TV" type="bool" default="true" visible="false"/>
+		<setting id="LEPANTO" label="LEPANTO" type="bool" default="true" visible="false"/>
+		<setting id="IONIAN CHANNEL" label="IONIAN CHANNEL" type="bool" default="true" visible="false"/>
+		<setting id="TELETIME" label="TELETIME" type="bool" default="true" visible="false"/>
+		<setting id="COSMOS TV" label="COSMOS TV" type="bool" default="true" visible="false"/>
+		<!-- EAST PELOPONNESE -->
+		<setting id="ELLADA TV" label="ELLADA TV" type="bool" default="true" visible="true"/>
+		<setting id="ELECTRA TV" label="ELECTRA TV" type="bool" default="true" visible="false"/>
+		<setting id="DR TV" label="DR TV" type="bool" default="true" visible="true"/>
+		<setting id="AXION TV" label="AXION TV" type="bool" default="true" visible="false"/>
+		<setting id="SUPER TV" label="SUPER TV" type="bool" default="true" visible="false"/>
+		<setting id="MAX TV" label="MAX TV" type="bool" default="true" visible="false"/>
+		<setting id="TOP TV" label="TOP TV" type="bool" default="true" visible="false"/>
+		<!-- CRETE -->
+		<setting id="KRITI TV" label="KRITI TV" type="bool" default="true" visible="true"/>
+		<setting id="CRETA TV" label="CRETA TV" type="bool" default="true" visible="true"/>
+		<setting id="NEA TV" label="NEA TV" type="bool" default="true" visible="true"/>
+		<setting id="KYDON TV" label="KYDON TV" type="bool" default="true" visible="true"/>
+		<setting id="MY TV" label="MY TV" type="bool" default="true" visible="false"/>
+		<setting id="CHANNEL 4U" label="CHANNEL 4U" type="bool" default="true" visible="false"/>
+		<setting id="SITIA TV" label="SITIA TV" type="bool" default="true" visible="false"/>
+		<setting id="KRITI TV1" label="KRITI TV1" type="bool" default="true" visible="false"/>
+		<!-- SOUTH AEGEAN -->
+		<setting id="KOSMOS" label="KOSMOS" type="bool" default="true" visible="true"/>
+		<setting id="IRIDA TV" label="IRIDA TV" type="bool" default="true" visible="true"/>
+		<setting id="TV AIGAIO" label="TV AIGAIO" type="bool" default="true" visible="true"/>
+		<setting id="OMEGA TV" label="OMEGA TV" type="bool" default="true" visible="true"/>
+		<setting id="DIRAS TV" label="DIRAS TV" type="bool" default="true" visible="true"/>
+		<setting id="TV12" label="TV12" type="bool" default="true" visible="false"/>
+		<setting id="RODOS TV4" label="RODOS TV4" type="bool" default="true" visible="false"/>
+		<!-- NORTH AEGEAN -->
+		<setting id="TVM" label="TVM" type="bool" default="true" visible="true"/>
+		<setting id="PATRIDA TV" label="PATRIDA TV" type="bool" default="true" visible="false"/>
+		<setting id="ALITHIA TV" label="ALITHIA TV" type="bool" default="true" visible="false"/>
+		<!-- CYCLADES -->
+		<setting id="SYROS TV1" label="SYROS TV1" type="bool" default="true" visible="true"/>
+		<setting id="ZEUS TV" label="ZEUS TV" type="bool" default="true" visible="false"/>
+		<!-- WEST MACEDONIA -->
+		<setting id="WEST CHANNEL" label="WEST CHANNEL" type="bool" default="true" visible="true"/>
+		<setting id="FLASH TV" label="FLASH TV" type="bool" default="true" visible="true"/>
+		<setting id="TOP CHANNEL" label="TOP CHANNEL" type="bool" default="true" visible="false"/>
+		<setting id="TRM" label="TRM" type="bool" default="true" visible="false"/>
+		<setting id="SUPER 28" label="SUPER 28" type="bool" default="true" visible="true"/>
+		<!-- EAST MACEDONIA -->
+		<setting id="DIKTYO TV" label="DIKTYO TV" type="bool" default="true" visible="true"/>
+		<setting id="TELE EPILOGES" label="TELE EPILOGES" type="bool" default="true" visible="true"/>
+		<setting id="ENA CHANNEL" label="ENA CHANNEL" type="bool" default="true" visible="true"/>
+		<setting id="STAR TV DRAMA" label="STAR TV DRAMA" type="bool" default="true" visible="true"/>
+		<setting id="CENTER TV" label="CENTER TV" type="bool" default="true" visible="false"/>
+		<setting id="ALFA TV" label="ALFA TV" type="bool" default="true" visible="false"/>
+		<setting id="TVS" label="TVS" type="bool" default="true" visible="false"/>
+		<setting id="TV DELTA" label="TV DELTA" type="bool" default="true" visible="false"/>
+		<!-- THRACE -->
+		<setting id="DELTA TV" label="DELTA TV" type="bool" default="true" visible="true"/>
+		<setting id="THRAKI NET" label="THRAKI NET" type="bool" default="true" visible="true"/>
+		<setting id="R CHANNEL" label="R CHANNEL" type="bool" default="true" visible="true"/>
+		<setting id="KANALI 6" label="KANALI 6" type="bool" default="false" visible="true"/>
+		<setting id="ORESTIADA TV" label="ORESTIADA TV" type="bool" default="false" visible="false"/>
+		<setting id="HOME SHOP" label="HOME SHOP" type="bool" default="false" visible="false"/>
+	</category>
+</settings>

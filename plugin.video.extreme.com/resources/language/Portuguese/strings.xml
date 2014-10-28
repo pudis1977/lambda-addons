@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Settings -->
+	<string id="30000">Geral</string>
+	<string id="30001">Qualidade HD quando disponível</string>
+	<string id="30002">Vídeos do utilizador</string>
+	<!-- Info -->
+	<string id="30301"></string>
+	<string id="30302">Activo por defeito</string>
+	<string id="30303">Stream não encontrada</string>
+	<!-- OK -->
+	<string id="30321">Não tem o addon Youtube instalado.</string>
+	<string id="30322">Esta stream necessida dele.</string>
+	<!-- Misc -->
+	<string id="30361">Próxima página</string>
+	<string id="30362">Procurar</string>
+	<!-- ContextMenu -->
+	<string id="30401">Reproduzir</string>
+	<string id="30402">Reprodução aleatória</string>
+	<string id="30403">Reproduzir a partir daqui</string>
+	<string id="30404">Em fila</string>
+	<string id="30405">Colocar vídeo em fila</string>
+	<string id="30406">Download video</string>
+	<string id="30407">Definições do addon</string>
+	<string id="30408">A reproduzir neste momento...</string>
+	<string id="30409">Home...</string>
+	<string id="30410">Definir tipo de vista Vídeos</string>
+	<!-- Description -->
+	<string id="30450">Desportos extremos</string>
+	<!-- Labels -->
+	<string id="30501">Todos os vídeos</string>
+	<string id="30502">Vídeos do utilizador</string>
+	<string id="30503">MTB</string>
+	<string id="30504">BMX</string>
+	<string id="30505">Skate</string>
+	<string id="30506">Snowboard</string>
+	<string id="30507">Freeski</string>
+	<string id="30508">FMX</string>
+	<string id="30509">MX</string>
+	<string id="30510">Surf</string>
+	<string id="30511">Auto Sports</string>
+	<string id="30512">Kayak</string>
+	<string id="30513">Kitesurf</string>
+	<string id="30514">Outdoor</string>
+	<string id="30515">Wake</string>
+	<string id="30516">Windsurf</string>
+</strings>

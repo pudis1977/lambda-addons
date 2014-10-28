@@ -1,0 +1,2682 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movies>
+	<movie name="101 Dalmatians">
+		<name>101 Dalmatians</name>
+		<poster>http://image.tmdb.org/t/p/original/q5jAL754dSdjyDxktpSEnA4T95H.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/4CcoF2VSW6GD21DGbmpxWMWafaE.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/11674</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qelmb2ZpbW3x6axvZibop-pmqipsrmyw8GusruTwLm0pbqzvq-xnqCxpprJ3NU=</url>
+		<language>el</language>
+		<size>544782477</size>
+	</movie>
+
+	<movie name="102 Dalmatians">
+		<name>102 Dalmatians</name>
+		<poster>http://image.tmdb.org/t/p/original/mVvOM6QSTy9pQIKilHcV8DbxMBI.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/2s1vbGNvXfVqWAh2rBed6bm763R.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10481</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfEl5uqxMC-uqKZqaqbop-qmqipsrmyw8GusruTwLm0pbqzvq-xnqGonZTJ3NU=</url>
+		<language>el</language>
+		<size>573690589</size>
+	</movie>
+
+	<movie name="9">
+		<name>9</name>
+		<poster>http://image.tmdb.org/t/p/original/iGMOQt6R88ZuJRtlfpqWRa5268h.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/1KgAtRedMe0LQwJ3KfydSxkvy5R.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/12244</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaeqaaqraqgtKexsqien6KnqA==</url>
+		<language>en</language>
+		<size>537267642</size>
+	</movie>
+
+	<movie name="A Bug's Life">
+		<name>A Bug's Life</name>
+		<poster>http://image.tmdb.org/t/p/original/1d1q0aMWPaVdosDKvP8FWVuLtCc.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/gOvW00ZMoEiyRwXVkHPfBictPAl.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9487</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe7vJy5nam30b-Xt56bspy64svbk7ja1d2alaGfpJ6zzrG20daZyeXhsZGpqZ-eoajO2tE=</url>
+		<language>el</language>
+		<size>582580547</size>
+	</movie>
+
+	<movie name="A Goofy Movie">
+		<name>A Goofy Movie</name>
+		<poster>http://image.tmdb.org/t/p/original/3QJBz5G8loGxkTEnJQQPBMQOGZE.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/ijDUMFmb34Fv7jBwxzhNc3lbVP3.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15789</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qexnJyZs7yhxa6sr6qbspy_3NPO35m-3u7WyZWXpaqkpbG6rLjV4ZzQ482sk620oqWflMnc1Q==</url>
+		<language>el</language>
+		<size>642764064</size>
+	</movie>
+
+	<movie name="A Monster in Paris">
+		<name>A Monster in Paris</name>
+		<poster>http://image.tmdb.org/t/p/original/bEqkbV0bYIDWpu2dMc1Zy3aFHhT.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/fCZKEiiE3cCIqeWf2WSAiMCvDwN.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/77459</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeut7a_n6m2uaOysL-bspzF3NLb2tHjnOHbkbjH3tripZ-UmZeZtcW8v83Yk-SjpayapauZmdTU29bQydjV5KI=</url>
+		<language>el</language>
+		<size>423297374</size>
+	</movie>
+
+	<movie name="A Turtle's Tale: Sammy's Adventures">
+		<name>A Turtle's Tale: Sammy's Adventures</name>
+		<poster>http://image.tmdb.org/t/p/original/i5BPtxcdJUgtXLWXJA3SHmyf1KM.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/qT6LwRSlc3GPdiWkqz0J32fjG7O.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/49953</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qexq6-ancPGxaCVoKebxNDl2t3bk63n3ubh2drL2p6z3Zqrzc7R2tzdmqjX1d7Y0ObUkZqWnaGcvMOous_cnsfu1qiVp6-knK2exd7P</url>
+		<language>el</language>
+		<size>528460300</size>
+	</movie>
+
+	<movie name="Abominable Christmas">
+		<name>Abominable Christmas</name>
+		<poster>http://image.tmdb.org/t/p/original/ogIIaJm2PItR1h0LgG58392VFG8.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/nAYUHOX4kfpYs2puGuCsvvgY7hH.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/150776</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfApq-YsrylvretnKeewKCnrsbX09Xf0NrZyZWp1OPY6-HRydmZo5-pn5GsvLDD2OjO2tE=</url>
+		<language>el</language>
+		<size>255083700</size>
+	</movie>
+
+	<movie name="Aladdin and the King of Thieves">
+		<name>Aladdin and the King of Thieves</name>
+		<poster>http://image.tmdb.org/t/p/original/fk5SqcvetjXTNX5y03X7tmeuLCw.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/wxdHHQ0MtOEa9qtdHfROC2xvUT9.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/11238</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe1l6-xs7WlxcC9trSbsru5saixtJmyvbyauLCrmby4xrSRt6yZxbfBsrqtuc3n2A==</url>
+		<language>el</language>
+		<size>474009394</size>
+	</movie>
+
+	<movie name="Aladdin">
+		<name>Aladdin</name>
+		<poster>http://image.tmdb.org/t/p/original/liNTanHWvqBXVs6Kdm9Y1qhS3bA.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/qog4yRtJeExQHkBjtVTWkp99BvF.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/812</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2Naeqq-Wq5ygpai5rqWrmLG2pA==</url>
+		<language>en</language>
+		<size>874021140</size>
+	</movie>
+
+	<movie name="Alpha and Omega">
+		<name>Alpha and Omega</name>
+		<poster>http://image.tmdb.org/t/p/original/jqbxW4JtAIAC6OP8WteHCWwF7zh.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/nAitR4PfakCKCBwRRf1bsxcVVuy.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/12819</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qexrMCYparCsa-mur6bstvo1cWVx9rVnMfayc_HmaOfqZ2RrLyww9jomrzez7CesLugkZ2XzefY</url>
+		<language>el</language>
+		<size>485578355</size>
+	</movie>
+
+	<movie name="Alvin and the Chipmunks: The Squeakquel">
+		<name>Alvin and the Chipmunks: The Squeakquel</name>
+		<poster>http://image.tmdb.org/t/p/original/42zXoHDC45ciX3mIM6xdwZWqw79.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/fltrFAIcNp8Ut41DpAHQRVdmn7I.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/23398</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe1vLa1oMaxwK-ymrObsrvOtrKVp7q1nMy1qZWptLq_xcKys7mZo8PAspG7t8G2sMO-ua2ynqGfsbS2rau3nrDNsa23k83n2A==</url>
+		<language>el</language>
+		<size>535846501</size>
+	</movie>
+
+	<movie name="An American Tail: Fievel Goes West">
+		<name>An American Tail: Fievel Goes West</name>
+		<poster>http://image.tmdb.org/t/p/original/spEFy5eHaNuINNHhwtCWKy1bBiY.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/qMUgu4VCu9DlUtZryILvkX5vIJo.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10380</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfAqLynn8bC0bqltbvDprmnrtKVp9nW4eHQxdaTwNLY5Jqq0cvi1tultNPN2ZnI1OvhkZmfpaKcvMOous_cnueqo5iVp6-knNvSx9HSzePY66DR09w=</url>
+		<language>el</language>
+		<size>582454965</size>
+	</movie>
+
+	<movie name="An American Tail: The Mystery of the Night Monster">
+		<name>An American Tail: The Mystery of the Night Monster</name>
+		<poster>http://image.tmdb.org/t/p/original/spEFy5eHaNuINNHhwtCWKy1bBiY.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/n3gyCXgWw8onehWMKW5N9C3OiGc.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/27653</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qevlZ-4oci4waWmwryexcmnrtKVp9nW4eHQxdaTwNLY5Jq40MuZvujr4cna35ng1aXhzM2TutrW4OGRtdXa5OPd35GZn6WqnLzDqLrP3J7nqqOYlaevpJzb0sfR0s3j2Oug0dPc</url>
+		<language>el</language>
+		<size>445539441</size>
+	</movie>
+
+	<movie name="An American Tail">
+		<name>An American Tail</name>
+		<poster>http://image.tmdb.org/t/p/original/spEFy5eHaNuINNHhwtCWKy1bBiY.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/erB8lr8EwxUDNgvWbXKAxf0vlxE.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/4978</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qegvr-2pMunrMawsq-8qb6nrtKVp9nW4eHQxdaTwNLY5JqVoZ6inrPOsbbR1pnpoa6hkampn57S3dDN1Mfe2uKr2s_e</url>
+		<language>el</language>
+		<size>560454910</size>
+	</movie>
+
+	<movie name="Anastasia">
+		<name>Anastasia</name>
+		<poster>http://image.tmdb.org/t/p/original/hhucFKyImKCPe7lQSpKPvHtdZl4.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/5WGhWqksMraFwnAa2r18YONARKh.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9444</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaesZ6WnZavtrKosZmsmaKkow==</url>
+		<language>el</language>
+		<size>340453194</size>
+	</movie>
+
+	<movie name="Around the World With Timon and Pumbaa">
+		<name>Around the World With Timon and Pumbaa</name>
+		<poster>http://image.tmdb.org/t/p/original/qPNujsnsgwMCuYk34F0JXQ1Su7l.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/sTjJXGOl2Fq9rdB7GacpZ1pefed.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/40647</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnurgxp_S0t_hrc7JmZWt497t28jH2tTWzs_c1tTKy-jY7NXDvM_Z4N3XzMO429nT0NnMlaGfop_X7NrQ</url>
+		<language>el</language>
+		<size>307429889</size>
+	</movie>
+
+	<movie name="Arthur Christmas">
+		<name>Arthur Christmas</name>
+		<poster>http://image.tmdb.org/t/p/original/crjzhg2T1sPL9yE7bFHkYp0OfXG.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/yNTU0FHQwK0AjVVCbzQTdIDyyMx.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/51052</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe7rJ-dsKjHqsWruqqbsuHs1dnak6_Z4eHg2NXH356hqJ6VlarCtcHBvZHAvLW1nLmwlw==</url>
+		<language>el</language>
+		<size>586667513</size>
+	</movie>
+
+	<movie name="Asterix and the Vikings">
+		<name>Asterix and the Vikings</name>
+		<poster>http://image.tmdb.org/t/p/original/yAPLmWxrnrF9uWaj2S88Qg4hhOn.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/gpk7kNOvyzk6BWEbKqbG0M0XBzt.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9642</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeet5-9pci3sZ6Zva2bwJy5wLituLXJnMOurZW1tZ7Fwbittq2_nrbKsqmzk63Gs8G8xd7P</url>
+		<language>el</language>
+		<size>494882545</size>
+	</movie>
+
+	<movie name="Asterix in Britain">
+		<name>Asterix in Britain</name>
+		<poster>http://image.tmdb.org/t/p/original/aZAIDg6sYbVl5CzvdwJSdn9qpxC.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/3vaMwo0s1pElUUDpMYQwMqGbsng.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9318</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe9nMC8nqOmyZ64rLytpsKnrtfcy97a56Xg2NCTzuPU7M7S0cc=</url>
+		<language>el</language>
+		<size>791186798</size>
+	</movie>
+
+	<movie name="Asterix the Gaul">
+		<name>Asterix the Gaul</name>
+		<poster>http://image.tmdb.org/t/p/original/5nYIjqB2ScgycBCLEbvqA5XTSUX.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/8iOeNiQ3qQnXvwFRr4oGMg7eG8H.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/11047</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qefpqmuvrWnqsSVt6ibsuLs0tbR3pm91KW0xd3S29ripZ6dnp2Zx7fLv83Y09yl</url>
+		<language>el</language>
+		<size>593075217</size>
+	</movie>
+
+	<movie name="Asterix vs. Caesar">
+		<name>Asterix vs. Caesar</name>
+		<poster>http://image.tmdb.org/t/p/original/aZAIDg6sYbVl5CzvdwJSdn9qpxC.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/7nqlbXq0jCM37SBjlStlqYAqOUz.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/8868</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qekr763u72_rce9uLy_ycenrtfcy97a56Xj15Wxzdri2d_F</url>
+		<language>el</language>
+		<size>630694460</size>
+	</movie>
+
+	<movie name="Astro Boy">
+		<name>Astro Boy</name>
+		<poster>http://image.tmdb.org/t/p/original/4kQczIhUFTnDWwG6HKsgCxLoi6.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/tDg2qkMVaP1sK4EVrBQyR9ejr1g.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/16577</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfErMGzs76hsLS5v7SbsuLs39OVqNvqnKqdlKGTsMezytbUydzV</url>
+		<language>el</language>
+		<size>471799859</size>
+	</movie>
+
+	<movie name="Avengers Confidential: Black Widow &amp; Punisher">
+		<name>Avengers Confidential: Black Widow &amp; Punisher</name>
+		<poster>http://image.tmdb.org/t/p/original/6zBkbmqB857edSNt08fJpv1Tqqt.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/5btIPgekpK7B5efzTM5qkhBthIY.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/257346</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qezlJ-yo8fFxaKxq56_o8mnrtrN1NPW4euap9fU0trT3dvY0cfYnrHkzsfTk8Pa0-fkkcnU0J6_7dvN287R45yqnZWck7S1weHdkcDc1bWcubCXlbnNvtDu1g==</url>
+		<language>en</language>
+		<size>465590333</size>
+	</movie>
+
+	<movie name="B.O.B.'s Big Break">
+		<name>B.O.B.'s Big Break</name>
+		<poster>http://image.tmdb.org/t/p/original/24mm1RjzkvSpA7d3qdXcrkfLalc.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/uQQdwtpGTCk9eYVoxxyTwdy75LC.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/24884</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe0sbqbrbLHzaKmr72bs7664JGqz9OeserSxdOTnqGfsZqovqq-2t_l2No=</url>
+		<language>el</language>
+		<size>81730479</size>
+	</movie>
+
+	<movie name="Back to Gaya">
+		<name>Back to Gaya</name>
+		<poster>http://image.tmdb.org/t/p/original/kLWgPvOao2TSKsEEZSXrsFlb5F8.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/gwJPuLs3M9d7yufije30EGSBicR.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10927</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qemvLu4u6rHrsKxnpqbs9Db2JG81Zm40PHOkZqWnKWcvMOous_c0uXh</url>
+		<language>el</language>
+		<size>446869274</size>
+	</movie>
+
+	<movie name="Balto II: Wolf Quest">
+		<name>Balto II: Wolf Quest</name>
+		<poster>http://image.tmdb.org/t/p/original/sR9n7dO25Euiu29OoSp9tDP0bU1.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/2vxZN97hS9g5rwmvkYztkUt0PZb.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/25913</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qexsb-urbzHxqOxtZ2bs9Dk4dOVmJnI3uTTkbnb0eTjpZ-UmJiZtcW8v83Yk-SjpayapauZ2dzl</url>
+		<language>el</language>
+		<size>513100332</size>
+	</movie>
+
+	<movie name="Balto III: Wings of Change">
+		<name>Balto III: Wings of Change</name>
+		<poster>http://image.tmdb.org/t/p/original/1NLbheOMglYTCZkCJfzlt0DIJHi.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/6rDKmXHZ6OQwTxMQwJN7DqgXRFQ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/34942</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeumqCco6fCrsKrnLObs9Dk4dOVmZnI2ObU15XV0p6y4M7Sz8uZo5-ooZGsvLDD2Oia3JqcoJ6wu6DR09w=</url>
+		<language>el</language>
+		<size>555601801</size>
+	</movie>
+
+	<movie name="Balto">
+		<name>Balto</name>
+		<poster>http://image.tmdb.org/t/p/original/gV5PCAVCPNxlOLFM1bKk50EqLXO.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/vQYpUskGjSp5QAcF15WuhOMtWAJ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/21032</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfEnJ6anbmhxqSbqZebs9Dk4dOVl6WqpKWxuqy41eGc8J-anJOttKLl2No=</url>
+		<language>el</language>
+		<size>640272626</size>
+	</movie>
+
+	<movie name="Bambi II">
+		<name>Bambi II</name>
+		<poster>http://image.tmdb.org/t/p/original/A8FGnpdrheRDECNJJ6yKcLDMD5G.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/wGQ7FyQIlgGfqtyrh1HwFFQ6pbt.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13205</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qevl6-tsLWxsMCztpmbs9Dlz82VmJmjn6ijkay8sMPY6JrcmpygnrC7oJHLy8_a29nfzduZ</url>
+		<language>en</language>
+		<size>370268657</size>
+	</movie>
+
+	<movie name="Bambi">
+		<name>Bambi</name>
+		<poster>http://image.tmdb.org/t/p/original/laABfcpEKweQsaZwCWzmGNUpij9.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/wGQ7FyQIlgGfqtyrh1HwFFQ6pbt.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/3170</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaevqKVmpqjpKi7sqaqrKK2oQ==</url>
+		<language>el</language>
+		<size>616815608</size>
+	</movie>
+
+	<movie name="Barbie Diaries">
+		<name>Barbie Diaries</name>
+		<poster>http://image.tmdb.org/t/p/original/aXlLaB1nEu6GRqOTjJtCCDNBchi.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/r1AhxbKHLCF7z5DjJA1m0G2yijJ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/21705</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qekt5q9oafGr5-3qZebs7DKr62tk7C6sMq2qbvH4to=</url>
+		<language>el</language>
+		<size>555870938</size>
+	</movie>
+
+	<movie name="Barbie Fairytopia: Magic of the Rainbow">
+		<name>Barbie Fairytopia: Magic of the Rainbow</name>
+		<poster>http://image.tmdb.org/t/p/original/uiS2uQBXBSsz2Zxzrdn2ppARkw1.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/4Z2s7VCVW9Dtezv4zCabIriNRpT.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/16962</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4nJmYxb-2q8KroK6bs7DKr62tk7KyuMrGuLe2tbKcxa6rsamZwLWlwaytk76yuMavs7_H4to=</url>
+		<language>el</language>
+		<size>549625700</size>
+	</movie>
+
+	<movie name="Barbie Fairytopia: Mermaidia">
+		<name>Barbie Fairytopia: Mermaidia</name>
+		<poster>http://image.tmdb.org/t/p/original/dYPb17qVPnNl8po4Wq9AbCPq5PY.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/A5arH3zjBJNQEwDaY2UyKgDA1Xo.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13285</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4qLCtrsmxx6Wdm56bs7DKr62tk7KyuMrGuLe2tbKcxbK2tae1tbi5ztrR</url>
+		<language>el</language>
+		<size>486407970</size>
+	</movie>
+
+	<movie name="Barbie Mariposa and Her Butterfly Fairy Friends">
+		<name>Barbie Mariposa and Her Butterfly Fairy Friends</name>
+		<poster>http://image.tmdb.org/t/p/original/thT8Ra7YOghzToPAKThQoPYSL90.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/5tw7ha5cj7QlgivIgzAGg78Z66E.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/18198</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe1mLWat6KgsMSWtr-bs7DKr62tk7mywcG9s7unmbK9vJq4sKuZubTKmqa9usC2wb65vZWsrbrB0Zqquq-xv7PLztrR</url>
+		<language>el</language>
+		<size>634214106</size>
+	</movie>
+
+	<movie name="Barbie and the Magic of Pegasus 3-D">
+		<name>Barbie and the Magic of Pegasus 3-D</name>
+		<poster>http://image.tmdb.org/t/p/original/vvCvmaXnttTV75v3zsJHUzDisml.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/5bhCyiDCDS9uc5U74nGL5uQE4gQ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15906</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeur5muw8aiz6Kmtq2bs7DKr62tk62_s6XBrK2TubK2wbCRt6yZwbS_rre9uc3n2A==</url>
+		<language>el</language>
+		<size>518259352</size>
+	</movie>
+
+	<movie name="Barbie as Rapunzel">
+		<name>Barbie as Rapunzel</name>
+		<poster>http://image.tmdb.org/t/p/original/es4kKOCnUieHkxDUplsCidm27Tf.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/5QYvVQuXagj8W14vci4L9XI1EnS.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15015</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4mpmxu7KlrrGxwK6bs7DKr62tk63EnMqutL20xra72ePN</url>
+		<language>el</language>
+		<size>505198024</size>
+	</movie>
+
+	<movie name="Barbie as The Princess &amp; the Pauper">
+		<name>Barbie as The Princess &amp; the Pauper</name>
+		<poster>http://image.tmdb.org/t/p/original/e5qL5cZCbiwyis6Q32wtbF4SROI.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/hAEQCcfA05wP2SplosJn1dkienN.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15165</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qehrJ29nbyzx7u3qq2bs7DKr62tk63EnMy1qZW2vrq9u7K3lae6tZzMtamVtq3Gv72_xd7P</url>
+		<language>el</language>
+		<size>463624246</size>
+	</movie>
+
+	<movie name="Barbie as the Island Princess">
+		<name>Barbie as the Island Princess</name>
+		<poster>http://image.tmdb.org/t/p/original/zZ6GDAl3wQQDAExAh2JHf2XGRE4.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/uYjqi89CyB5lf8YqtPCC2KLa3Qb.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13283</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe8qJ21w7K2rbW9trubs7DKr62tk63EnMy1qZWvv72wxrGRuLi1v7K9wLfJ3NU=</url>
+		<language>el</language>
+		<size>608008758</size>
+	</movie>
+
+	<movie name="Barbie in 'A Christmas Carol'">
+		<name>Barbie in 'A Christmas Carol'</name>
+		<poster>http://image.tmdb.org/t/p/original/65yBeE230xk3kEXUHB35xz2nrhH.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/r2B43VGUNqvZwfYSdAcC7YLX1UM.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13459</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe7lp61oLyozcKZqZqbs7DKr62tk7W_nLmap7C4tcTDxa63lamtw77EztrR</url>
+		<language>el</language>
+		<size>620423144</size>
+	</movie>
+
+	<movie name="Barbie in A Mermaid Tale 2">
+		<name>Barbie in A Mermaid Tale 2</name>
+		<poster>http://image.tmdb.org/t/p/original/gLXtQFhZalvJDAj6oCcXqtfmPco.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/w7HX5L5hgxBlHhbV7uyUcdKpSjL.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/91342</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qefmKy9nrKxsZ-cqb-bs7DKr62tk7W_nLmasa24ubK4vJq4qbKxnrjBmpaYl564wb2yr5WnwbW4x87a0Q==</url>
+		<language>el</language>
+		<size>552599058</size>
+	</movie>
+
+	<movie name="Barbie in A Mermaid Tale">
+		<name>Barbie in A Mermaid Tale</name>
+		<poster>http://image.tmdb.org/t/p/original/c0w8fBG05GoKEG3UT1DaAQJouUE.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/5x3hj0mBo2KrAVaA5Ix0FGixMsu.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/34134</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qemlb-noqezrKKZmb2bs9Dqz83Nk9XfnNma0c3Y2dLY3JrYydLR0uXh</url>
+		<language>el</language>
+		<size>772089423</size>
+	</movie>
+
+	<movie name="Barbie in the 12 Dancing Princesses">
+		<name>Barbie in the 12 Dancing Princesses</name>
+		<poster>http://image.tmdb.org/t/p/original/8PBjz1xVq7oRUvV5XpWqJZgUBH4.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/w4Nn9JnCEc95nE9DTg5140RzGrX.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13002</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4ppy9xLK90ca8trubs7DKr62tk7W_nMy1qZWXnp6zubunsbSznr_KtrKrq7_EtMvO2tE=</url>
+		<language>el</language>
+		<size>583628974</size>
+	</movie>
+
+	<movie name="Barbie in the Nutcracker">
+		<name>Barbie in the Nutcracker</name>
+		<poster>http://image.tmdb.org/t/p/original/mzj9LHDBYp6H85LsUnFjINNrDoJ.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/gbd5Zr4gDlugPaWNUlWKykKjUaS.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15167</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfArK-tv7_G0Lq2qp-bs7DKr62tk7W_nMy1qZW0wcWyyq6ns6u-0uXh</url>
+		<language>el</language>
+		<size>425211682</size>
+	</movie>
+
+	<movie name="Barbie in the Pink Shoes">
+		<name>Barbie in the Pink Shoes</name>
+		<poster>http://image.tmdb.org/t/p/original/c7R3O37hXg22auBnRGbYBTWc9RJ.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/eMcya0Hi6O8bDROyX2Kd4Ut394k.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/168903</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeima-9rcm3rLyymq2bs9Dqz83Nr9rF1929zdbRv9ne3eCWmJefteW8v83Yp6-kx-7WyJWsrsOz2ePN</url>
+		<language>el</language>
+		<size>501544965</size>
+	</movie>
+
+	<movie name="Barbie of Swan Lake">
+		<name>Barbie of Swan Lake</name>
+		<poster>http://image.tmdb.org/t/p/original/pvT9At5ctQe9lo4uBgxmpokToTr.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/bXH36XRslXCjXXYPoX5gdy5Cud3.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15016</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4mZm5xcSiq6-mn6ib09Dqz83Nk9ja3ObWxd7P</url>
+		<language>el</language>
+		<size>460111532</size>
+	</movie>
+
+	<movie name="Barbie: A Fairy Secret">
+		<name>Barbie: A Fairy Secret</name>
+		<poster>http://image.tmdb.org/t/p/original/dYPb17qVPnNl8po4Wq9AbCPq5PY.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/rncmXQOYHRjNqZ7u4N3xqamB1bt.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/57737</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeepb27xLmjx8K9s76bs7DKr62tx9LS2Orm183J3tbj2ePN</url>
+		<language>el</language>
+		<size>761487321</size>
+	</movie>
+
+	<movie name="Barbie: A Fashion Fairytale">
+		<name>Barbie: A Fashion Fairytale</name>
+		<poster>http://image.tmdb.org/t/p/original/6Sy0zkZWI4jBLpo5VhCLHPVKJAr.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/rCajmGxhmyhehUoHt9W95hg78qn.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/44874</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qevsbqtn6THqsWYvaqbs9Dqz83Nk62e1dngzNHV2p7V2dbW4drN3dSln5SZls3n2A==</url>
+		<language>el</language>
+		<size>820094250</size>
+	</movie>
+
+	<movie name="Barbie: Fairytopia">
+		<name>Barbie: Fairytopia</name>
+		<poster>http://image.tmdb.org/t/p/original/rncmXQOYHRjNqZ7u4N3xqamB1bt.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/b6HOd3QTuo5BmVjBHClSfKpG0qP.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13284</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4mcGxuqrH0LGvn72bs7DKr62tk7KyuMrGuLe2tbLQ7tY=</url>
+		<language>el</language>
+		<size>394026303</size>
+	</movie>
+
+	<movie name="Barbie: Princess Charm School">
+		<name>Barbie: Princess Charm School</name>
+		<poster>http://image.tmdb.org/t/p/original/zcyOkNxhpjH7Bk6vmsuVgDIUXBz.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/vns6UaN7snktRVl1Jbv4G2nQ4VR.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/73456</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeem5uZpaa9qbiowKqbs7DKr62tk7zDuMawqbu5mbS3ub-xlbmvub7HuZaYl52etsqyqbOTrcazwbyRydzV</url>
+		<language>el</language>
+		<size>588984806</size>
+	</movie>
+
+	<movie name="Barbie: The Princess &amp; The Popstar">
+		<name>Barbie: The Princess &amp; The Popstar</name>
+		<poster>http://image.tmdb.org/t/p/original/4hNWdZXm2xsfTOoiziuiUSbDjcU.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/mJobXRuhWXKqdMShDZJBzF1mcaC.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/129533</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe6rK-coMCoz5-3s7mbs9Dqz83Nk8DZ1KW91tHUz9bi65rF1sqZ5dfdmrTX1pnE49nfkZqWnaOcvMOous_cnsfu1qiVp6-k</url>
+		<language>el</language>
+		<size>639166432</size>
+	</movie>
+
+	<movie name="Barnyard">
+		<name>Barnyard</name>
+		<poster>http://image.tmdb.org/t/p/original/5Oooyxd5B9JKl8o4iyOwwUf7JHk.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/dJLXWSB6EzxkVLJ4skzXw28DSEj.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9907</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeetpybw6azqbGWmribs7DKu72puLA=</url>
+		<language>el</language>
+		<size>416996048</size>
+	</movie>
+
+	<movie name="Bartok the Magnificent">
+		<name>Bartok the Magnificent</name>
+		<poster>http://image.tmdb.org/t/p/original/2qw68YM9snlkPnBQhCfhiw8qfZI.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/vDfP4jwjyp1qPUg1hSJLwucvqdJ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/19594</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfEmJ-fnsbCw8Kdtpmbs9Dq4dPT</url>
+		<language>el</language>
+		<size>412228656</size>
+	</movie>
+
+	<movie name="Batman Beyond: Return of the Joker">
+		<name>Batman Beyond: Return of the Joker</name>
+		<poster>http://image.tmdb.org/t/p/original/q25QA26XjS63ZbNJS7jTPQT0fJH.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/tfofbcTNffFUy8BMfxI3Rvoh0A6.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/16234</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnuDg0tnP3aGf8tHUnpWu0uPlztLHqNHq3ubRw7rL4Obh5szTzsXg2dTXt9PTy97QoaidlJbO4N7b</url>
+		<language>el</language>
+		<size>66490601</size>
+	</movie>
+
+	<movie name="Batman: Gotham Knight">
+		<name>Batman: Gotham Knight</name>
+		<poster>http://image.tmdb.org/t/p/original/gZb4h7aYRDzUsziErNyrPACo8wv.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/cAW1NAahXhBUFJZgicBIGPs2OkZ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13851</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnrDQzMuYzqal5t_XypWu0uPlztLHrdvl19naw7PU1djX7MyWmJak0M66v7bR1suin7Cd1MfFy7jh18DZytnLn9fs2tA=</url>
+		<language>en</language>
+		<size>205797973</size>
+	</movie>
+
+	<movie name="Batman: Mask of the Phantasm">
+		<name>Batman: Mask of the Phantasm</name>
+		<poster>http://image.tmdb.org/t/p/original/apxYGxjJhjsf0TunFE0VwXEmqTd.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/scVfXlefwwqwb04ASNE33P6zAAQ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/14919</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeuncGzo7PHrq-5sJ-bs7DMuqW2k7mywsOas66TwLm0pb2sqbTAssLFmpWhn58=</url>
+		<language>el</language>
+		<size>474139942</size>
+	</movie>
+
+	<movie name="Batman: The Dark Knight Returns, Part 1">
+		<name>Batman: The Dark Knight Returns, Part 1</name>
+		<poster>http://image.tmdb.org/t/p/original/t1UAqk1Yej8rfxEUqNLFyKkcny1.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/a6pB1w4lwp0WeTRQk9Q2K1F9W34.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/123025</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qexm8CdtKa8uaK7mrGbs9Ds2sXWk8DZ1KWxxdrRmbzd4dTM3JO-1uPt39Lbk7zS4eyekZqWnaM=</url>
+		<language>en</language>
+		<size>449782553</size>
+	</movie>
+
+	<movie name="Batman: The Dark Knight Returns, Part 2">
+		<name>Batman: The Dark Knight Returns, Part 2</name>
+		<poster>http://image.tmdb.org/t/p/original/wPeorCnD9MRR2S9Dzh4OpIgNLiv.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/tZ2MGdxM1QeldfLXkKeZagee3Qd.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/142061</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejq8C5xcmkqaC3v5qbs9Ds2sXWk8DZ1KWxxdrRmbzd4dTM3JO-1uPt39Lbk7zS4eyalpWYnKKipa-2us_cnsfu1qiVp8-knL7SydSTsuPU3c7a0Q==</url>
+		<language>en</language>
+		<size>450205921</size>
+	</movie>
+
+	<movie name="Batman: Year One">
+		<name>Batman: Year One</name>
+		<poster>http://image.tmdb.org/t/p/original/bI1YVuhBN6Vws1GP9Mf01DyhC2s.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/tZ2MGdxM1QeldfLXkKeZagee3Qd.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/69735</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnvHlzNrRz-ef3-PY25Wu0uPlztLHxcXW0OrMs9bLy6OfqZ7Dx63e0LDt0c3XxZrZ4-XZ</url>
+		<language>el</language>
+		<size>134235021</size>
+	</movie>
+
+	<movie name="Beauty and the Beast">
+		<name>Beauty and the Beast</name>
+		<poster>http://image.tmdb.org/t/p/original/b9QJr2oblOu1grgOMUZF1xkUJdh.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/x220D7KpooL0eCZCcHcRZbKBmJ3.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10020</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe1u7C0nbPBrqGonZybs9TZ4tjhk83f06XhzM2TrtbQ6-GRmZ-lopy8w6i6z9yex-7WqJWnr6ScrZ6RydzV</url>
+		<language>el</language>
+		<size>656150434</size>
+	</movie>
+
+	<movie name="Bee Movie">
+		<name>Bee Movie</name>
+		<poster>http://image.tmdb.org/t/p/original/QhbOzpYfBOwrRiuTu9otPk919R.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/eKXTOIqSFrfN8WTTxrzHMBNiUpB.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/5559</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2Naeva6Vm5uis6atsJaembKzpA==</url>
+		<language>el</language>
+		<size>730441728</size>
+	</movie>
+
+	<movie name="Believe in me">
+		<name>Believe in me</name>
+		<poster>http://image.tmdb.org/t/p/original/t4YqfrjvxmooPvK7L23j37Nkw7h.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/uIxK6B91oPS1EAsvRh2gVe51TgK.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/18123</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfCuZ2xn7jExsWcmZ-b5NLn3Mbhk9Dg3qXa3dva0ePopdbSy9Xe4d7qztjNyg==</url>
+		<language>el</language>
+		<size>527795805</size>
+	</movie>
+
+	<movie name="Belle's Magical World">
+		<name>Belle's Magical World</name>
+		<poster>http://image.tmdb.org/t/p/original/phtkXOxGUYIfCIgqesqNOiKehUn.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/yZYWGHqtpbZlOKUdL5nGt24ZBOO.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/20235</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfCq6GeobXByqSxma2bs9TZ4tjhk83f06XhzM2TrtbQ6-GRqsvY3dTrmrHJzdXU0OSau9fY2NWcqaadoJOwx7PK1tSVvuLas6Wup5uToaLQ7tY=</url>
+		<language>el</language>
+		<size>773007917</size>
+	</movie>
+
+	<movie name="Bernard">
+		<name>Bernard</name>
+		<poster>http://image.tmdb.org/t/p/original/s5WYI5CNGtskyZJcjDCWOI5qu0W.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/k4QO5pYGt8bHNfm2l2NG1HMso29.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/76984</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qefnbexpb66vLW8t66bs7TKu6W6qp3S5eE=</url>
+		<language>el</language>
+		<size>492880776</size>
+	</movie>
+
+	<movie name="Beverly Hills Chihuahua 3 - Viva La Fiesta!">
+		<name>Beverly Hills Chihuahua 3 - Viva La Fiesta!</name>
+		<poster>http://image.tmdb.org/t/p/original/3PjyqcxJkxCcfQNqcYPUI6pLvWB.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/hTFAEF3lNtkJBN35LO0stsTGF78.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/105965</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qelpp-0rqWlqqGxwL-b1djr3dPby5nT19ufkeDc1dU=</url>
+		<language>en</language>
+		<size>715527573</size>
+	</movie>
+
+	<movie name="Big Top Scooby-Doo!">
+		<name>Big Top Scooby-Doo!</name>
+		<poster>http://image.tmdb.org/t/p/original/5YozUkrrJEqI3oUHzt7y6gFmB9g.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/wLf1hEPU164b5YwDf5jZysPmkkZ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/119321</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfEpbuqrcOxr6-Xv52b0-Pr0ZHg3NXVnOva0MnYzw==</url>
+		<language>en</language>
+		<size>193826816</size>
+	</movie>
+
+	<movie name="Bolt">
+		<name>Bolt</name>
+		<poster>http://image.tmdb.org/t/p/original/k8Nsyj9BC9XKO4TqD1qt8Ks6bvc.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/d0yt0dtinSYsE7A8xczMiBc9EV4.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13053</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnuLm2s-f0-nfrZ6b1JXO4Nvsm8valM3m0-Hcksnc1Z_X7NrQ</url>
+		<language>el</language>
+		<size>200176175</size>
+	</movie>
+
+	<movie name="Bratz: Babyz - The Movie">
+		<name>Bratz: Babyz - The Movie</name>
+		<poster>http://image.tmdb.org/t/p/original/i2ldF3ZVAwevEt3ZEidrsqPwTVG.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/uyJPrd4OInvkA9xe27ckE8lpvtK.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/35281</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfGnLa6n8HJz7Cqs6exwqWnr6Wqv5mzwbnBvpWYnKGl2ePN</url>
+		<language>el</language>
+		<size>481373963</size>
+	</movie>
+
+	<movie name="Bratz: Desert Jewelz">
+		<name>Bratz: Desert Jewelz</name>
+		<poster>http://image.tmdb.org/t/p/original/dR0lNX5incSh3YIZpJVC3EoShUq.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/62CHLfiX2ZMTGoV9JUWMvYazgta.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/43070</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeus5mduaPGv6-yu66bs-HZ4d6VqtHk1OrhkbLL49bb8pqWmJeenrPu0bbR1pnJ5eHRkbSxvricy-LUzdi64OXZmrjNx9nS5eE=</url>
+		<language>en</language>
+		<size>466414872</size>
+	</movie>
+
+	<movie name="Bratz: Genie Magic">
+		<name>Bratz: Genie Magic</name>
+		<poster>http://image.tmdb.org/t/p/original/35ze98uPoobTHP1DxTPxBu9mppV.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/7ZUMUEZfFR6H6PUEbRzEufVOMWb.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/36862</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejlsGzpMnEqqGWoZmbs8G5wb6VrbG_uL2asamttbScqp2Un5Owx7PK1tQ=</url>
+		<language>el</language>
+		<size>358049927</size>
+	</movie>
+
+	<movie name="Brave">
+		<name>Brave</name>
+		<poster>http://image.tmdb.org/t/p/original/yctGwK2UNuItxCBAU78U105mmjc.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/sgpRSSST1gsyqIo98HVFaMmruIk.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/62177</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe0lZ6qobymvMacu7Gb2NTm0tPbzd7S5NzW0w==</url>
+		<language>el</language>
+		<size>497025414</size>
+	</movie>
+
+	<movie name="Brother Bear 2">
+		<name>Brother Bear 2</name>
+		<poster>http://image.tmdb.org/t/p/original/msZSTfilEF6hw47HTuf5AeXAO8R.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/tWY8BLU8TIAHSCYWGurH8v1mSUf.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10010</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_nb--nqmkrLqYurubs-Hn4czN2Jmz1NnfkZqTnqGfrpqovqq-2t_l2No=</url>
+		<language>el</language>
+		<size>331108680</size>
+	</movie>
+
+	<movie name="Brother Bear">
+		<name>Brother Bear</name>
+		<poster>http://image.tmdb.org/t/p/original/5qSEndgjSbshCK3OqxxRfREFCAP.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/fAzT4AboZXP2Sj3zE2HcQ7qjMi.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10009</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe8nMGXoaOirrilv5ebs-Hn4czN2Jmz1NnfkZqWnKScvMOous_c3tru</url>
+		<language>el</language>
+		<size>485871780</size>
+	</movie>
+
+	<movie name="Cars 2">
+		<name>Cars 2</name>
+		<poster>http://image.tmdb.org/t/p/original/uq3N2SFj1Y06zA6LzCQPkmBdaaE.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/jEcmZhtJkZQc6ta2vzBd9CU7GIx.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/49013</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qewqbSat7q0zbaZn66utrensKW6uZmjoaielay8sMO4yMW6saqzw7S9uJGpu7C6vg==</url>
+		<language>el</language>
+		<size>607273026</size>
+	</movie>
+
+	<movie name="Cars">
+		<name>Cars</name>
+		<poster>http://image.tmdb.org/t/p/original/uq3N2SFj1Y06zA6LzCQPkmBdaaE.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/a1MlbLBk5Sy6YvMbSuKfwGlDVlb.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/920</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeesbi0sMe_z7y4s7rBu8ansKW6uZmjn6ij</url>
+		<language>el</language>
+		<size>868380303</size>
+	</movie>
+
+	<movie name="Cats &amp; Dogs: The Revenge of Kitty Galore">
+		<name>Cats &amp; Dogs: The Revenge of Kitty Galore</name>
+		<poster>http://image.tmdb.org/t/p/original/7NPz9uEJfNHjPPO6bo0Urid8lV.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/x4H0GxRKcmLcGXfwEtAQpoINQvk.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/39691</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe8mqGev8ij0J-9rL-btNDs4JGp1NCes-fU15W61NacytLazdTT1pzn05Gzz-Dl6KW0xdTV3tacqp2VmJOwx7PK1tQ=</url>
+		<language>el</language>
+		<size>420745682</size>
+	</movie>
+
+	<movie name="Cats &amp; Dogs">
+		<name>Cats &amp; Dogs</name>
+		<poster>http://image.tmdb.org/t/p/original/1MvqQoMfjEA6HXjw3YGnqmhUmnF.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/2GoKwjA0K7b3BnsvBXwm68PkaJk.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10992</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfCq7uuvrKwxqKrwZ-btNDs4JGp1NCes-fU15WYnKGgpbG6rLjV4Q==</url>
+		<language>el</language>
+		<size>674056995</size>
+	</movie>
+
+	<movie name="Charlotte's Web">
+		<name>Charlotte's Web</name>
+		<poster>http://image.tmdb.org/t/p/original/zmfPv26TJrMeE9ngSEpBG44uePa.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/AoGBJK3avvRmaVROq69m2GQgpi7.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9986</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4mp2oxMmzsbW7qb-bxLDKubO8k7SesMquvLa1xb2w2ePN</url>
+		<language>el</language>
+		<size>576938529</size>
+	</movie>
+
+	<movie name="Chicken Little">
+		<name>Chicken Little</name>
+		<poster>http://image.tmdb.org/t/p/original/otRTXUJ6nOTonqZHQovrLEF83vD.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/cAVfRc269eWJA7BCNGfGeJ8R1ou.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9982</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qehvZ69nca90aacn6ebtNfh0M_N1Jm92Ozh0M2TnqGfrZqovqq-2t-lxbrRqpmysquax83J1d3Q6tbX1dHi</url>
+		<language>el</language>
+		<size>461897303</size>
+	</movie>
+
+	<movie name="Chip an' Dale">
+		<name>Chip an' Dale</name>
+		<poster>http://image.tmdb.org/t/p/original/30WnjK2nz50u6uS7M5ZtL78Pb3K.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/sKewWG0HVLc6Tz7yTHBbsrjKJyM.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/53478</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnqznyNrLnuWm3qSWn5Wv2djozMXWxcu10OTSw5mfoKjO17TWx6fh1djnzJLQ2tnd</url>
+		<language>el</language>
+		<size>332781413</size>
+	</movie>
+
+	<movie name="Cinderella II: Dreams Come True">
+		<name>Cinderella II: Dreams Come True</name>
+		<poster>http://image.tmdb.org/t/p/original/9nVCovV9oHNJ4pymgo4h48RQKrl.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/4ErXZZgpXPxDcCLnnLXysK03ss9.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/14128</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qefpZmtt6a2wMKyurGbtNjm0cnay9jd0KW2rZWq3tbQ5eCRq9XZ1pzM39nNk56hn6qaqL6qvtrfpcXa0aqZsrKrmpmZx-La</url>
+		<language>el</language>
+		<size>417944996</size>
+	</movie>
+
+	<movie name="Cinderella III: A Twist in Time">
+		<name>Cinderella III: A Twist in Time</name>
+		<poster>http://image.tmdb.org/t/p/original/kUeJC8i8xvlk1GunkrLbkMZbwa8.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/c69ILpjneKopimKQs4MIUV5QbbK.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/16119</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qevnb2tosimsbizmrGbtNjm0cnay9jd0KW2rbGTrZ7D79bX3JPV35zM1tHNk56hn6-aqL6qvtrfpcXa0aqZsrKrmpaYx-La</url>
+		<language>el</language>
+		<size>351164474</size>
+	</movie>
+
+	<movie name="Cinderella">
+		<name>Cinderella</name>
+		<poster>http://image.tmdb.org/t/p/original/scNoXmnYdZKh1ccQzXBWWGVloes.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/kbm5k0MXxcZAgqt3HBZqJvlOwFR.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/11224</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe8l8G4pbO9v7uvmqibtNjm0cnay9jd0KWenZ2WmbXFvL_N2JPE59i8mqWrmZmmoNnjzQ==</url>
+		<language>el</language>
+		<size>499089661</size>
+	</movie>
+
+	<movie name="Cloudy with a Chance of Meatballs">
+		<name>Cloudy with a Chance of Meatballs</name>
+		<poster>http://image.tmdb.org/t/p/original/9Ceu2GPMEN6jaJvy6hI7hZX4NLD.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/kQPVqsTXZpBmgm7OcC4GoGCYDRN.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/22794</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeelb-7nqbEw6-YsKibtNvn4sjhk-Pa4-CaxZWp1NLd29KR18yZvtTZ4cbJ0tjknKqdlKGTsMezytbUydzV</url>
+		<language>el</language>
+		<size>489455719</size>
+	</movie>
+
+	<movie name="Coraline">
+		<name>Coraline</name>
+		<poster>http://image.tmdb.org/t/p/original/1E9DfFpaGOjXNLn7HOGMH52UkLL.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/9Rbu2YylCF5qDOZrdDkAOHUTMWs.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/14836</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnuLm3J3H39rnq-LWmJXP4OHZ2c3Wy5rV5dzfzdiU5OfY3MzF2tjb6M7Z38fHmJyp0dubxd7Pmtnj5dk=</url>
+		<language>en</language>
+		<size>349258364</size>
+	</movie>
+
+	<movie name="Corpse Bride">
+		<name>Corpse Bride</name>
+		<poster>http://image.tmdb.org/t/p/original/irjoXWPQVy3008YjzONnkDn7D1U.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/mlfoltX46WG4FqdKy92hiOq33qO.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/3933</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejtreXnaeww8S3tb-bxdjlr9na2tvf4rvc1tjZ0bPh4dHJmpacprPusdbR1q20or3by5XHxMne2ePN</url>
+		<language>en</language>
+		<size>370234252</size>
+	</movie>
+
+	<movie name="Curious George">
+		<name>Curious George</name>
+		<poster>http://image.tmdb.org/t/p/original/1WyGePG0GVjAG0FEPX2s9xrP4w9.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/ojAWev4Li394H2v07dsUT5b5QPQ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9975</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeipaqfxMDHyrSbr7-btOTq1tPd2Zm41Offy80=</url>
+		<language>el</language>
+		<size>532633884</size>
+	</movie>
+
+	<movie name="Delhi Safari">
+		<name>Delhi Safari</name>
+		<poster>http://image.tmdb.org/t/p/original/uSOZatdDKzO33IzIt0txcBwfaD3.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/6UzVZDUKDxcUa55eE4M8pqBCW8R.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/51485</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qefvbaxxKW3sKGYoZibtdTk1c2Vuc3X0OrWkZqWnaOcur-20bY=</url>
+		<language>en</language>
+		<size>524010945</size>
+	</movie>
+
+	<movie name="Dennis the Menace: Cruise Control">
+		<name>Dennis the Menace: Cruise Control</name>
+		<poster>http://image.tmdb.org/t/p/original/u3W3wqBXMwEfgnuUAiuh7JnZj9o.jpg</poster>
+		<fanart>http://thetvdb.com/banners/fanart/original/76423-1.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/138015</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qems5qYsL6kra63ur-btdTm283bk-DZ1KW6ydbHz9acqaacnsfi2g==</url>
+		<language>el</language>
+		<size>558331214</size>
+	</movie>
+
+	<movie name="Despicable Me 2">
+		<name>Despicable Me 2</name>
+		<poster>http://image.tmdb.org/t/p/original/5T24KfgiPkZgdxi3O74Q4Z3dEIk.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/rmgxcw8tGTmdhsWqdjGBS9uI1tO.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/93456</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfCqKG_tLK7scG1m5nAqainscnb1tXU0NrZyZWz0Z6hpbG6rLjV4Zzwn5qck620oqXQycvP2NLh4eCX1dHi</url>
+		<language>el</language>
+		<size>553729268</size>
+	</movie>
+
+	<movie name="Despicable Me">
+		<name>Despicable Me</name>
+		<poster>http://image.tmdb.org/t/p/original/n8Q21kZ5U6U3EzBYh4Esjlb2G1.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/yo1ef57MEPkEE4BDZKTZGH9uDcX.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/20352</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfGva-dv8CwqrG5u5mbtdTr3c3Lx87d1KW6yZWYnKKfpa-ous_c</url>
+		<language>el</language>
+		<size>533443079</size>
+	</movie>
+
+	<movie name="Dino Time">
+		<name>Dino Time</name>
+		<poster>http://image.tmdb.org/t/p/original/bOriKE5Pjd1uLDfG5fu5uLXxaQ7.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/osIssLaNObVSnRNoT2xVqUaop7F.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/136793</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfElZ6noqjIr6WlvZebtdjm3JG8z9nWnKqdlZqTrsPB4d0=</url>
+		<language>en</language>
+		<size>502628171</size>
+	</movie>
+
+	<movie name="Disney Princess Enchanted Tales: Follow Your Dreams">
+		<name>Disney Princess Enchanted Tales: Follow Your Dreams</name>
+		<poster>http://image.tmdb.org/t/p/original/wNICRWoqzINXFQ1cK1RHQG5dqui.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/7T6y6u1vUbZrCwQ9kFqH21CoAaB.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15485</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmntrbz9af4tXjseGb1ZW50tbd2snWy9_QuOvh09rP0eSd2ePNls7g3ts=</url>
+		<language>el</language>
+		<size>134654163</size>
+	</movie>
+
+	<movie name="Donald's Laugh Factory">
+		<name>Donald's Laugh Factory</name>
+		<poster>http://image.tmdb.org/t/p/original/ps6kpP3heKpDHOsI8pNHlLZJj90.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/r5iN2PRIICBiVNl3eqbdnzqK65H.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/68831</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qevnJ-dw8OhzaSawZebtd7mztDM2Znd0O3UzJXMzdTj59_dydzV</url>
+		<language>el</language>
+		<size>622461867</size>
+	</movie>
+
+	<movie name="Donkey X">
+		<name>Donkey X</name>
+		<poster>http://image.tmdb.org/t/p/original/eyOLQ5Uzb9vIbCPLYr4WqncWVZW.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/tVrTC38GLg7BUEt9VWkIsOr8tzd.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/14704</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe1l5yxxcSj0K62urWbtd7m2Mnhk8Tg490=</url>
+		<language>el</language>
+		<size>519061812</size>
+	</movie>
+
+	<movie name="Dragon Ball Z: Battle of Gods">
+		<name>Dragon Ball Z: Battle of Gods</name>
+		<poster>http://image.tmdb.org/t/p/original/9y5zvzzMXqgvorvKMzLju9cPGA3.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/xKVE8ZsNUBBI0sE4Vpv8yv6DsPZ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/126963</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeuqLrAxce5y6W2vLqhurCnsdbJzdvfsdnZ0MKozeXj5NKzzq3b1eI=</url>
+		<language>en</language>
+		<size>506991846</size>
+	</movie>
+
+	<movie name="Dumbo">
+		<name>Dumbo</name>
+		<poster>http://image.tmdb.org/t/p/original/r5IqhwZ61OuKlsyDwvXWyWQZK30.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/ioGNSMfktFnl7FTQusBzac0v8Uq.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/11360</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2Naeqp-qoauhpp-tsaecnq2poA==</url>
+		<language>en</language>
+		<size>620186430</size>
+	</movie>
+
+	<movie name="Epic">
+		<name>Epic</name>
+		<poster>http://image.tmdb.org/t/p/original/fdXA81BOdZ3pEyBlY8UUvuJj136.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/v6w2o3ji8aVLph6zNgR5yDGQfmS.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/116711</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qevmLu_osnB0MKmna2btt_h0JGalp2knLqxttHWmaKfsJ3UlaevnqKl5ZaemrPj1N3Ykanb0NrepeHT1cnN5aCq2s_e</url>
+		<language>el</language>
+		<size>560931064</size>
+	</movie>
+
+	<movie name="Escape from Planet Earth">
+		<name>Escape from Planet Earth</name>
+		<poster>http://image.tmdb.org/t/p/original/zbyYmusAq6Vj7Osau86yAv4Po3A.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/w0no28UKW3Z9CIv9kTiCoan6RWl.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/68179</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfGt6qzrsajwLSyqbubtuLbztTNk7Lj3uWatNTH2tbjpdLF2trUo5-poLaduNXhx-7WqKunubLEvLazlaytv8O5ztrR</url>
+		<language>en</language>
+		<size>586252700</size>
+	</movie>
+
+	<movie name="Fantastic Mr. Fox">
+		<name>Fantastic Mr. Fox</name>
+		<poster>http://image.tmdb.org/t/p/original/750pfEttsYAVmynRg2vmt1AXh4q.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/uxQ1n8yLqRZgnrimiBXJ5rsaa.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10315</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnq7jzsmW5t2g4OHb35Wy0t3sztfcz8-fvOqbqtfemqOfqKaSn5ic4Z2637bR1prpoa6hksGvssqd2ePNls7g3ts=</url>
+		<language>en</language>
+		<size>217686578</size>
+	</movie>
+
+	<movie name="Finding Nemo">
+		<name>Finding Nemo</name>
+		<poster>http://image.tmdb.org/t/p/original/zjqInUwldOBa0q07fOyohYCWxWX.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/uv5BRIaJKfcPBPEBV8qfTjD6PuY.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/12</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe6qLWqrr6jxcCmvbGbt9jm0c3WzZm_1OXckZqWnKScvMOous_cnsfu1qiVp6-knK2exd7P</url>
+		<language>el</language>
+		<size>754644339</size>
+	</movie>
+
+	<movie name="Flushed Away">
+		<name>Flushed Away</name>
+		<poster>http://image.tmdb.org/t/p/original/fzNdDqSF2W1aSuuqYW4U9nLdZvg.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/bfRhOT9UO7rBpGrecaWkQqMmezw.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/11619</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe1nJu4uqS9scKlmZ-bt9vt4MzNypmy5tnmkZqWnKecvMOous_c0uXh</url>
+		<language>el</language>
+		<size>446109038</size>
+	</movie>
+
+	<movie name="Fly Me to the Moon">
+		<name>Fly Me to the Moon</name>
+		<poster>http://image.tmdb.org/t/p/original/eM5clf65GzhnTKYwOgNqhgFZTFF.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/adBgQtsqOcGJwfHvMCxltaMVOV1.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13956</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_ncGxoaa3w6a8upybt9vxmrHNk-DgnOzVyZWz2-DdpZ-UmJ7N59g=</url>
+		<language>el</language>
+		<size>442236491</size>
+	</movie>
+
+	<movie name="Frankenweenie">
+		<name>Frankenweenie</name>
+		<poster>http://image.tmdb.org/t/p/original/zMFJ0Uy9y0Oy3KPbgtRic6IYzRk.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/u19sv7CyDcr5eONL7LtemPaStXt.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/62214</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfCprOuwca2ucKzv56bt8G5u6m2vbG2vcHSxd7P</url>
+		<language>en</language>
+		<size>426473372</size>
+	</movie>
+
+	<movie name="Free Birds">
+		<name>Free Birds</name>
+		<poster>http://image.tmdb.org/t/p/original/7wiqelQRrE2jJpPl2sfAVPLQmcG.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/h4oLb4Is4QnTw9cBZHydTsOU3st.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/175574</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qelrZy0tbulx7ycta-0trqn0tDNzODZ1OrOkdjV4d3Y2Q==</url>
+		<language>en</language>
+		<size>580875374</size>
+	</movie>
+
+	<movie name="Frozen">
+		<name>Frozen</name>
+		<poster>http://image.tmdb.org/t/p/original/jIjdFXKUNtdf1bwqMrhearpyjMj.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/cAhCDpAq80QCeQvHytY9JkBalpH.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/109445</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfBp72qpaK-sKKxnLKzuMGn3cXP1dnW3efg</url>
+		<language>en</language>
+		<size>601890560</size>
+	</movie>
+
+	<movie name="Garfield Gets Real">
+		<name>Garfield Gets Real</name>
+		<poster>http://image.tmdb.org/t/p/original/qHcsCRAdrpEVU6xRdaJxM6jPSOv.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/50XCfkB8mYiQHuCTRQoTNbTy63m.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/16460</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4mqm7v6Kzy7W8m5mbuNDq083N0tCett3h15W40dLbpZ-UmJ2ZtcW8v83Yx-La</url>
+		<language>el</language>
+		<size>425004840</size>
+	</movie>
+
+	<movie name="Garfield's Fun Fest">
+		<name>Garfield's Fun Fest</name>
+		<poster>http://image.tmdb.org/t/p/original/iceTyIw6a3wlulUXEDILuDp4BQ7.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/qpie8XQCG49pLg3cn1I3trb32QA.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/26728</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qexpaCqxKelr5-3sLWbuNDq083N0tDknL7i0pWs0eTjpZ-UmJ6ZtcW8v83Y</url>
+		<language>el</language>
+		<size>535212017</size>
+	</movie>
+
+	<movie name="Garfield's Pet Force">
+		<name>Garfield's Pet Force</name>
+		<poster>http://image.tmdb.org/t/p/original/2u2BS508a1wEYynBmc25RZYbumy.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/eRA9DpKYtRdfgBZxpDUOCiRStGJ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/19508</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeeubacobLBqbqZr5-buNDq083N0tCpoamk15W20eWcvtzWy8s=</url>
+		<language>el</language>
+		<size>487452169</size>
+	</movie>
+
+	<movie name="Garfield: A Tail of Two Kitties">
+		<name>Garfield: A Tail of Two Kitties</name>
+		<poster>http://image.tmdb.org/t/p/original/8OClrZTjeMpGOCyAwxZQFaFfhQn.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/wF5fjrTvBjceOc0lKbUp9JKBOYy.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9513</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qexs7q5rqLGrKOvqZubuLDKs62tsrCeoQ==</url>
+		<language>el</language>
+		<size>503075528</size>
+	</movie>
+
+	<movie name="Gnomeo &amp; Juliet">
+		<name>Gnomeo &amp; Juliet</name>
+		<poster>http://image.tmdb.org/t/p/original/atCBHTqq7khw5Z1KSVXDo6ncKWF.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/9eFXL1R1pi6LdGZBS4lKLxsgX1v.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/45772</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeitqyds6q6x7issJmbuL3Huqm3k62_s6W3ubSvscWcqp2VmZOuw8Hh3ZGfmJye56qjmJXa297S2eGVmg==</url>
+		<language>el</language>
+		<size>539087020</size>
+	</movie>
+
+	<movie name="Happily N'Ever After">
+		<name>Happily N'Ever After</name>
+		<poster>http://image.tmdb.org/t/p/original/fjklKaeDH2nzaZi6urcGruNxj96.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/yq623jYUMb2VPMbcDVPbtiOLvU0.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/5393</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfFm8GqnaKnwMC2v7mbudDo3c3U35m_tO7S1pWn0uXU6pqWmJainrPOsbbR1s3n2A==</url>
+		<language>el</language>
+		<size>446855579</size>
+	</movie>
+
+	<movie name="Happy Feet">
+		<name>Happy Feet</name>
+		<poster>http://image.tmdb.org/t/p/original/8RLEzftZK87S2usLsQoYtyNYzoV.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/5IJLJeDAEPf5QwUHKUVGP93z3Ha.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9836</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfEsZyXu7ygsca9up2bubDIvb2VrLG2w6WflJiczefY</url>
+		<language>el</language>
+		<size>770915641</size>
+	</movie>
+
+	<movie name="Help! I'm A Fish">
+		<name>Help! I'm A Fish</name>
+		<poster>http://image.tmdb.org/t/p/original/jZUfsa7ABHR8bKsPfyH22uI1VaJ.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/5ryEASjcPOpmksQfPj1QrO3FfQg.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/12609</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeglb-9u7-3rqaVtpybudTk3ZGx05nSnL7W19CTnqGfqJqovqq-2t_Z480=</url>
+		<language>el</language>
+		<size>368899732</size>
+	</movie>
+
+	<movie name="Home on the Range">
+		<name>Home on the Range</name>
+		<poster>http://image.tmdb.org/t/p/original/1KFa2Mzzn2DMlC95eJwRYgRsHI.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/lMeGuxgmzUVTRfLHekt41iWexip.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13700</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4qbGto6q9r8KrmLa_xLOn4dbN0tWe1dnf0ck=</url>
+		<language>el</language>
+		<size>447858628</size>
+	</movie>
+
+	<movie name="Hoodwinked Too! Hood VS. Evil">
+		<name>Hoodwinked Too! Hood VS. Evil</name>
+		<poster>http://image.tmdb.org/t/p/original/1Ldl7ji0iTlGePh09RU4bopkwSG.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/32Jory70ZxHp2q14J2f7eNnyhLe.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/57089</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfGnLa7n6ejrKKXoLSbub7HsbuxtLe2s6Wfkby1u7m-x7GRvrmZtsXBuZaYl521xby_zdiTxOfY3Jqlq5mZ3Njj3Ne6mc6k2-fWkbzLzd7Q7tY=</url>
+		<language>el</language>
+		<size>389195440</size>
+	</movie>
+
+	<movie name="Hoodwinked!">
+		<name>Hoodwinked!</name>
+		<poster>http://image.tmdb.org/t/p/original/cx7CmTKBa5sgZqLp6680CdMrZc1.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/4KWtkmddn9bu537mU2WRsmJuoBe.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10982</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmntydx8mfoduk2uGc0JW0wL68xK22sbG1ndnjzZbO4N7b</url>
+		<language>el</language>
+		<size>382065527</size>
+	</movie>
+
+	<movie name="Hop">
+		<name>Hop</name>
+		<poster>http://image.tmdb.org/t/p/original/avbiy6qaRMbfeI8HRpNg2HLaNwD.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/4ROkS8GjAfOe71PJn5ocFlKmMF8.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/50359</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qehsp-eobe5zrqYubLGs6entbO4k56hoKmxuqy4tcGwu6CruquxvJy5wqixtQ==</url>
+		<language>el</language>
+		<size>594925906</size>
+	</movie>
+
+	<movie name="Horton Hears a Who!">
+		<name>Horton Hears a Who!</name>
+		<poster>http://image.tmdb.org/t/p/original/cYc2MbsXsDbMcf3tZDSiuNLn7kn.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/rv4mx3VXgnyzlSs0fcUp17LlbZo.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/12222</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe0mMCtnqOmqqKvn7mbud7q4dPWk7TW0OrgkcmTw9ne2ePN</url>
+		<language>el</language>
+		<size>484676959</size>
+	</movie>
+
+	<movie name="Hotel Transylvania">
+		<name>Hotel Transylvania</name>
+		<poster>http://image.tmdb.org/t/p/original/fHntg68hzEtpDuvx8PWTHoPsED2.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/pQPRp30zd0BSaefterJnLmh4Rs9.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/76492</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfAvKytt8a6vL-zu5ibud7s0tCVut7S3evm0N7H2trQpZ-UmZiZtcW8v83Yk-SjpayapauZ2dzl</url>
+		<language>el</language>
+		<size>481296950</size>
+	</movie>
+
+	<movie name="How to Train Your Dragon">
+		<name>How to Train Your Dragon</name>
+		<poster>http://image.tmdb.org/t/p/original/pfKFiNi22C1P11JLjOATVoMjtPI.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/kQ0Sq4ihGmBq6r00S7KmhtOyO6Z.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10191</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qehtqqeoLygrbGYoZybud7vmtjXk8Dj0OHbkcHV4eOcvN_Fz9XanqGonpSVqsK1weHdxd7P</url>
+		<language>el</language>
+		<size>547860604</size>
+	</movie>
+
+	<movie name="Hulk vs.">
+		<name>Hulk vs.</name>
+		<poster>http://image.tmdb.org/t/p/original/dXjbsjVkpykJECOO0kgThsipSYP.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/kxjsUeDWKN4eHmXSdYi7RPpw2sf.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15257</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnuja1MnInaHb5NXenpW05tvjzLrbxcPg2-7S1tHU0dChqJ2dx6rCteHh3ZLQ2tnd</url>
+		<language>en</language>
+		<size>106805739</size>
+	</movie>
+
+	<movie name="Ice Age: Dawn of the Dinosaurs">
+		<name>Ice Age: Dawn of the Dinosaurs</name>
+		<poster>http://image.tmdb.org/t/p/original/8cPsU1WzmeXurgOzefNP3IxxNqj.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/2ZkYXWejAwpkFkNnOY6nQYcJSPn.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/8355</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnu_fyNXand7l4uWb0JW1tLTXrqutxZ-es7nEsse1stDDwLLDrK-6wMK5wra7xcujn6imw5bH4tqd4OHR1A==</url>
+		<language>el</language>
+		<size>354462716</size>
+	</movie>
+
+	<movie name="Ice Age: The Meltdown">
+		<name>Ice Age: The Meltdown</name>
+		<poster>http://image.tmdb.org/t/p/original/q8tnZwfhelgK7P61UEEInNeuvqy.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/lxNCa4FifUuLeUkWUQl2yuf9JnJ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/950</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnuLZ0M_Oo-Kj8OTLypW1tLTXrqutxZ6ew8Cyw7WruMWzx8Syx8WeoZ-uzJLJ3NWf1-za0A==</url>
+		<language>el</language>
+		<size>323482031</size>
+	</movie>
+
+	<movie name="Ice Age">
+		<name>Ice Age</name>
+		<poster>http://image.tmdb.org/t/p/original/7vYhg6vQnLlNC2zMUUO8CZG3rd8.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/oDqbewoFuIEWA7UWurole6MzDGn.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/425</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnu7R3N-W1Nji4s7b4ZW1tLTXrqutxcujn6ifw5bH4tqd4OHR1A==</url>
+		<language>el</language>
+		<size>253823507</size>
+	</movie>
+
+	<movie name="James and the Giant Peach">
+		<name>James and the Giant Peach</name>
+		<poster>http://image.tmdb.org/t/p/original/76SMcfRxVdX7NNiN2RjHetEDb5A.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/b76pDMPRWUBuArIOaDQU6kDQaq4.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10539</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_nLqarcjExbW9vZqb49TlztDRx5nb0OXS18nc1Q==</url>
+		<language>el</language>
+		<size>467116821</size>
+	</movie>
+
+	<movie name="Justin and the Knights of Valour">
+		<name>Justin and the Knights of Valour</name>
+		<poster>http://image.tmdb.org/t/p/original/jCRKQ6afS5LwSLeIrKZ78KVgv1C.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/hjd7Wzb4q5coizMC2QbCBYrIz5V.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/146381</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfFnbucu7rGybSanbKkxb-nt7m7urW_nLm7qJW6tLacw7utr67AxJzHs5G-p7jAxMqalpiXn9Ll4Q==</url>
+		<language>en</language>
+		<size>589008203</size>
+	</movie>
+
+	<movie name="Koala Kid">
+		<name>Koala Kid</name>
+		<poster>http://image.tmdb.org/t/p/original/hecC4s1AY3sWLjXhzwI6HWFqARV.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/yv4IWmkZc4Xc00Leu9chsOkI7OB.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/136405</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_tcKytcWzsK6umZa4u7-nwaytk7vGw7qup7OTnqGgqpqovqq-2t-lxdrRqpmysquamZnH4to=</url>
+		<language>el</language>
+		<size>596614990</size>
+	</movie>
+
+	<movie name="Kung Fu Panda 2">
+		<name>Kung Fu Panda 2</name>
+		<poster>http://image.tmdb.org/t/p/original/9wCrh57WO3mPmn1hWnJRcvdFtIb.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/eyiE1vuizMKVu8MoZkg2xsramFl.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/49444</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe8sZ2_osmir6GaupibvMTGtJGuu5nBsMaxpZWYmaOfqZ6o3sre2t-l5drRytPj1N3Ykcnb0Nre2ePN</url>
+		<language>el</language>
+		<size>458477359</size>
+	</movie>
+
+	<movie name="Kung Fu Panda Holiday">
+		<name>Kung Fu Panda Holiday</name>
+		<poster>http://image.tmdb.org/t/p/original/gp18R42TbSUlw9VnXFqyecm52lq.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/66SRbzQXz9VyNFqHdzolfh62ST5.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/50393</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qefu6yeuqShrrGrtbubvOTm1JGu25nB0ObRxZWu293Y3M7dlbnc1tLhztCVmJyin9njzQ==</url>
+		<language>el</language>
+		<size>153932268</size>
+	</movie>
+
+	<movie name="Kung Fu Panda">
+		<name>Kung Fu Panda</name>
+		<poster>http://image.tmdb.org/t/p/original/nhOMC1WJKAcX1rB9tMfwGyHNhom.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/iA5N8IBMpHKjZYDs1eDAszklPne.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9502</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfFnLWatKqnrLy9mp2bvOTm1Krdts3f09mflJies-PU3diovqq-2t_Z480=</url>
+		<language>el</language>
+		<size>478116494</size>
+	</movie>
+
+	<movie name="LEGO Batman: The Movie - DC Superheroes Unite">
+		<name>LEGO Batman: The Movie - DC Superheroes Unite</name>
+		<poster>http://image.tmdb.org/t/p/original/iMoUM0JnYwwcKibSnNjrwfE9SDv.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/xoyITLjbqzs5uWebEv8xfKWFPBY.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/177271</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qevl5u7nsS8uaGsm5mbvbS_vKbJ2tnS3czVyZWz2-fY3Zqoq7nh4dTq1cna1dHkxObW2M2osOPY6MXa0cqZstKrmrHRsri2veHCscnc1Q==</url>
+		<language>en</language>
+		<size>569858023</size>
+	</movie>
+
+	<movie name="Lady and the Tramp II: Scamp's Adventure">
+		<name>Lady and the Tramp II: Scamp's Adventure</name>
+		<poster>http://image.tmdb.org/t/p/original/bc2yxExkW5tiJf8ASkgsEYHiluy.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/iThiel1gqI9MhOrXPT4Bz5dVxc4.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/18269</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfAqJ2ft8jGrcadnaibyNDk4ZGsz9_f1PGasMnK5Z7Q5tGR3M7RnsPqztHYk7W6nKqdlJmTsMezytbUydzV</url>
+		<language>el</language>
+		<size>325868298</size>
+	</movie>
+
+	<movie name="Legends of Valhalla: Thor">
+		<name>Legends of Valhalla: Thor</name>
+		<poster>http://image.tmdb.org/t/p/original/9aWnlKIb6ODpkNJ6GJIjwx1u3rS.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/eOpVdDQQVTz81vFyomtXHWk5amS.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/106631</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe1l6y1u8Smq7ibm5ub5dfn39DNzdHf09njzQ==</url>
+		<language>en</language>
+		<size>439010715</size>
+	</movie>
+
+	<movie name="Madagascar 3: Europe's Most Wanted">
+		<name>Madagascar 3: Europe's Most Wanted</name>
+		<poster>http://image.tmdb.org/t/p/original/q79YojIzPEUb0JaEpuzDbLJT3yv.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/ojjRYqwunK0Ueiq0IIlKvcOeHEV.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/80321</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejm5yevqmwzbqVtZybvrC8rqupua-ywaWgkaq4vtrfpaSWmNaZ6aGuoZHc1dnU0Oyelg==</url>
+		<language>el</language>
+		<size>972034048</size>
+	</movie>
+
+	<movie name="Madagascar">
+		<name>Madagascar</name>
+		<poster>http://image.tmdb.org/t/p/original/kjA2VkYx929rPKMPFQRb0lPqY3w.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/aGIEgcIqVtGRPULbc3CJnTk5BRv.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/953</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_srq5v7bDuqaUwLi_uL-nusXMx9PS4tvO1pqWnKazzrG20dbE59i8</url>
+		<language>el</language>
+		<size>479189002</size>
+	</movie>
+
+	<movie name="Madly Madagascar">
+		<name>Madly Madagascar</name>
+		<poster>http://image.tmdb.org/t/p/original/2BryHTAzdSPi7KR9B9UnkDLCkm8.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/fTBhQtwxqi7skX5hQ6fvjl8H1H6.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/161143</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qelq8CnwbnCx7S9vaib3tvx2sXMyc3j0O7W</url>
+		<language>en</language>
+		<size>165856197</size>
+	</movie>
+
+	<movie name="Mars Needs Moms">
+		<name>Mars Needs Moms</name>
+		<poster>http://image.tmdb.org/t/p/original/yotjjAPoovuHYjPx5UYQMYtZEb3.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/3TTP2qVda479YgtOLDWxhzaASXU.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/50321</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaevaGaqqyjp6eqsZypqa2ptQ==</url>
+		<language>el</language>
+		<size>318048100</size>
+	</movie>
+
+	<movie name="Mary and Max">
+		<name>Mary and Max</name>
+		<poster>http://image.tmdb.org/t/p/original/pxEcKETCDtujdyxrw0bMzxJQtaO.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/akUyYgdcY3Q4WfbWLDB9Ur8ttFG.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/24238</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaevJ-bmpaxoaeor6qsp660oA==</url>
+		<language>en</language>
+		<size>329945676</size>
+	</movie>
+
+	<movie name="Merry Madagascar">
+		<name>Merry Madagascar</name>
+		<poster>http://image.tmdb.org/t/p/original/kjA2VkYx929rPKMPFQRb0lPqY3w.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/32Hc6n9DydsP8KaWIHOI9bQiA6i.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/25472</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfHmbGev6myq7iqqpzGwcWnusna2OW-0NzOy8nZz9Lhv7-lvaq1wA==</url>
+		<language>el</language>
+		<size>166217026</size>
+	</movie>
+
+	<movie name="Mickey &amp; Minnie's Sweetheart Stories">
+		<name>Mickey &amp; Minnie's Sweetheart Stories</name>
+		<poster>http://image.tmdb.org/t/p/original/vXYtBLn7aczguu7k9mCyS0XlKMH.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/ozrtVyozRLBT4fg3GQnI6QP6HeQ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/49552</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeevLmtxbO7uqalnbqlvsinsa27tLHKnMvEqa26tLawysGRu7q7w7i9wMXezw==</url>
+		<language>el</language>
+		<size>747632344</size>
+	</movie>
+
+	<movie name="Mickey and the Beanstalk">
+		<name>Mickey and the Beanstalk</name>
+		<poster>http://image.tmdb.org/t/p/original/6mOfEy6AUD8eiyArwWdzcEXIxA0.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/hPByrqJXCXIViFheXQh48wtI7T6.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/31135</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfFmK-_v8Cwxr-ot7-b4Nzh2N3Tx9Xa1dng09TPzdLl4Q==</url>
+		<language>el</language>
+		<size>228517490</size>
+	</movie>
+
+	<movie name="Mickey's House of Villains">
+		<name>Mickey's House of Villains</name>
+		<poster>http://image.tmdb.org/t/p/original/2yxBNasscflTzAxRKrTzzQr8lUP.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/ozrtVyozRLBT4fg3GQnI6QP6HeQ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/22643</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeisrCtxLnHysCzsL2bvtjb2Mnhnp6ipuuarNfb39acx9ORtdXh5NSlw83U0s3a3es=</url>
+		<language>el</language>
+		<size>360659891</size>
+	</movie>
+
+	<movie name="Mickey's Magical Christmas: Snowed in at the House of Mouse">
+		<name>Mickey's Magical Christmas: Snowed in at the House of Mouse</name>
+		<poster>http://image.tmdb.org/t/p/original/3yIvYvNvarfvwc9YnC0ZbAHhfRK.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/zK2Z40YMpJXrdjtB87hLC4r07QS.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/21448</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qelrLOqv6q8r6G5mrmb5dDlzsvR0c3p4eHg2Nfb09bd5s7Y19vZ2trxztrR</url>
+		<language>el</language>
+		<size>540655857</size>
+	</movie>
+
+	<movie name="Mickey's Once Upon A Christmas">
+		<name>Mickey's Once Upon A Christmas</name>
+		<poster>http://image.tmdb.org/t/p/original/hPXSWiuYdJXHtcDS5wluYWgZldE.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/kAdhnZdfI9kMGalCfHpCDrVXKuE.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15400</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfHp8KauMOiqMO8nrTGtMinus3L0dHqp6qem9uTu9_S3Zq52NXanrClsMzaz9_l3Nng</url>
+		<language>el</language>
+		<size>494989624</size>
+	</movie>
+
+	<movie name="Mickey, Donald, Goofy: The Three Musketeers">
+		<name>Mickey, Donald, Goofy: The Three Musketeers</name>
+		<poster>http://image.tmdb.org/t/p/original/8rQXH1d2aB22SDD7oPRtp6FJC4R.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/8WodHELOg5guFPMIQf0M88IQhNE.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/21385</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_mr2Zn6rBz7Gsmp-bvtjb2Mnhk7Dg3dnZyJWt2-DV8Zq40MuZxdfq0smVs-Hk2t3hyc3Y356hqJ2YlarCtcHh3dHT3A==</url>
+		<language>el</language>
+		<size>465698775</size>
+	</movie>
+
+	<movie name="Monster High: 13 Wishes">
+		<name>Monster High: 13 Wishes</name>
+		<poster>http://image.tmdb.org/t/p/original/tF4XLT9VTodY9P8jqoLJNoa31s.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/9yWm98n6vtTb1pjIGUI4XwezzHv.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/212470</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_u5-1w8mjy5-mrJybvt7m4NjN2LTa1uCel7_P39nU65-UmZmuw8Hh3by-z7C4wbnCqLG1rbSipbi5vMvN3g==</url>
+		<language>el</language>
+		<size>522049523</size>
+	</movie>
+
+	<movie name="Monster High: Ghouls Rule">
+		<name>Monster High: Ghouls Rule</name>
+		<poster>http://image.tmdb.org/t/p/original/5Ph5QbjjEcu7zIPATlRT7ySGC53.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/z1RpzKeX2KeplVRIb7nIbeNnYqV.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/134632</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4t7uunbm2q8aonbub3t7m4NjN2NTa1uA=</url>
+		<language>el</language>
+		<size>562786752</size>
+	</movie>
+
+	<movie name="Monster High: Why Do Ghouls Fall in Love?">
+		<name>Monster High: Why Do Ghouls Fall in Love?</name>
+		<poster>http://image.tmdb.org/t/p/original/c5tlwc2jlCKFBIeePoMxvz6qMlC.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/45eZ8xCO7xQ4r8bGcBcIqzzKId7.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/167313</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qehs7q5rbOgyrWroJibyNfxmqjXk7PZ3u3Z15Wszd3bpdbSlbLb59Tl2No=</url>
+		<language>el</language>
+		<size>298029601</size>
+	</movie>
+
+	<movie name="Monsters University">
+		<name>Monsters University</name>
+		<poster>http://image.tmdb.org/t/p/original/r5BLUeYAk15TR11Tz8URPROREid.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/5mDCKKS7M8aUZKdShnCa7lLbzmH.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/62211</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qefqJ67tLO-sa6zt6ibvr7GwLituL-exMa2uq24v7rD0ZqWmJefnrPOsbbR1g==</url>
+		<language>el</language>
+		<size>574022228</size>
+	</movie>
+
+	<movie name="Monsters vs Aliens">
+		<name>Monsters vs Aliens</name>
+		<poster>http://image.tmdb.org/t/p/original/8x0WrDcFQDC2eoXJe6iC34wXZE8.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/t03uCzKAcYwynMOG4iTcZ75Z23U.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15512</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnt7cl5idnOOiq-HZnZW5wL3Lwam6ucvHwteusLGrusTO15-UmJ_Ln9Du1pLQ2tnd</url>
+		<language>el</language>
+		<size>210787677</size>
+	</movie>
+
+	<movie name="Mulan II">
+		<name>Mulan II</name>
+		<poster>http://image.tmdb.org/t/p/original/pxGtt9XOdbFsGthxkGoceYcUccU.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/nq6MoDjVlgYszeE8Zthitdr7hPe.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/12242</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeelqqbnaagv6CYoKibvuTkztKVr7U=</url>
+		<language>el</language>
+		<size>397540196</size>
+	</movie>
+
+	<movie name="Mulan">
+		<name>Mulan</name>
+		<poster>http://image.tmdb.org/t/p/original/8JGRcn4S9og6oydqVzfy9ZUdjmc.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/di83v8KqGksIe4UL4sCDaD5nEB5.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10674</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_qJq0u76x0KKYurmbvuTkztKZn6Wps86xttHWu-jdytbUr7jN5tPh3A==</url>
+		<language>el</language>
+		<size>459898846</size>
+	</movie>
+
+	<movie name="My Friend Bernard">
+		<name>My Friend Bernard</name>
+		<poster>http://image.tmdb.org/t/p/original/ckkaK8w0czZfaJxFFYS4uWbXQkO.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/ayTTWr8k54T4vIoK8aXgEMn8FJY.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/47649</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfGlqmnnqaxvLqctZebs7TKu6W6qp7S5eE=</url>
+		<language>el</language>
+		<size>452535442</size>
+	</movie>
+
+	<movie name="Open Season 2">
+		<name>Open Season 2</name>
+		<poster>http://image.tmdb.org/t/p/original/bbxSsTMrGioZPWKtM8qd9WAg0No.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/nyPzpQ2myGLpEfnc9KDa0GUhImK.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13690</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe7mpuxpb68vLS2t5mbwN_d25G7y83k3uaalpWYnKGnpbG6rLjV4dDu1g==</url>
+		<language>el</language>
+		<size>398951544</size>
+	</movie>
+
+	<movie name="Open Season 3">
+		<name>Open Season 3</name>
+		<poster>http://image.tmdb.org/t/p/original/djxT6i7xxJWAayNQY1imB879SbC.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/7Zd9vC8LXblIlnAMXNz04fZNJd1.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/51170</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qekssG9s7O6sK6amq6bwN_d25G7y83k3uaal5WYnKKfpbG6rLjV4dDu1g==</url>
+		<language>el</language>
+		<size>390677210</size>
+	</movie>
+
+	<movie name="Open Season">
+		<name>Open Season</name>
+		<poster>http://image.tmdb.org/t/p/original/9TY3wQPNhZ60Mng0JetKEOfXqxU.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/7bmzhqOJ9TGXUU5d4pqYUWl3YZ8.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/7484</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qehl6qbwbKg0caxrLmbwN_d25G7y83k3uaalpiWop6zzrG20dbN59g=</url>
+		<language>el</language>
+		<size>507074595</size>
+	</movie>
+
+	<movie name="Over the Hedge">
+		<name>Over the Hedge</name>
+		<poster>http://image.tmdb.org/t/p/original/4YMgBXYZGC1MvD5eG3L3DBXEjnJ.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/vZSJZZ178D40pwzRXkKqQKjLU7X.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/7518</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaevK-brJqjp6i8naWurLC1sw==</url>
+		<language>el</language>
+		<size>733702144</size>
+	</movie>
+
+	<movie name="ParaNorman">
+		<name>ParaNorman</name>
+		<poster>http://image.tmdb.org/t/p/original/AtenrJ8HptJOOtvJJwxu4nbo3es.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/tTSXZG8uHc0olcq9gOneDgLQL5G.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/77174</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeul7uopLKox8SdmZibwbDKrrK3uLmyvaWflJmYmbPBytbUlZujp9-l5Zaempnl3uXQxdyXng==</url>
+		<language>el</language>
+		<size>456692806</size>
+	</movie>
+
+	<movie name="Pecos Pest">
+		<name>Pecos Pest</name>
+		<poster>http://image.tmdb.org/t/p/original/9kJLt38tCYJjDKRykeX89y1z8u5.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/dO4ZxcEpnBdvoNjLGJBzmVGEmBw.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/75097</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeis7q1nb7H0cWcv52b5d7lms7N2N7qnNnd1tfZ193Y7NbF3s8=</url>
+		<language>el</language>
+		<size>380798719</size>
+	</movie>
+
+	<movie name="Piglet's Big Movie">
+		<name>Piglet's Big Movie</name>
+		<poster>http://image.tmdb.org/t/p/original/gM4rWSXfPMeXorIKXNr5kuxLPkz.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/kJABbqsbe8jLQyDudjfiYBBSUvp.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13691</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfAmLq7pbm9z7icmZ-bxd6l1NPd2Nvm3dnYzZXRzdqc4ZrRzc3N3dil3cXay82eoaidl5WqwrXB4d3R09w=</url>
+		<language>el</language>
+		<size>516287119</size>
+	</movie>
+
+	<movie name="Pinocchio">
+		<name>Pinocchio</name>
+		<poster>http://image.tmdb.org/t/p/original/eAIJ1RRQRlaeUy2sdxKcRRNBMjC.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/qFLDF62VbWyyxkwco9lwZqkGoMB.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10895</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaeqJ-nrZmitbSunZiYqrC2pw==</url>
+		<language>en</language>
+		<size>714348488</size>
+	</movie>
+
+	<movie name="Pixie Hollow Games">
+		<name>Pixie Hollow Games</name>
+		<poster>http://image.tmdb.org/t/p/original/cgMiCsaa8gJduXsAAC9jTyaENS9.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/pHQ91sAaDasZxyM2v1GfggRyaR1.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/86130</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qegsp24ocalw6Orr5ybxbjGuKm6qLG9u6W9rcCvsZ63x7mwt72ZuLDFsreVmJyioQ==</url>
+		<language>el</language>
+		<size>173070393</size>
+	</movie>
+
+	<movie name="Planes">
+		<name>Planes</name>
+		<poster>http://image.tmdb.org/t/p/original/8CkrElYZnYrIWEDGE5V2Xn4hl58.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/jUe7RbnkLXGYC9MPhdN9cruy4L0.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/151960</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe-uLOYraK4rJ--v7awwsGnvdDJ1NHknKqdlZuTsMezytbU</url>
+		<language>el</language>
+		<size>523036634</size>
+	</movie>
+
+	<movie name="Planet 51">
+		<name>Planet 51</name>
+		<poster>http://image.tmdb.org/t/p/original/n4Azjb2DyclHySvHWMUAsGW2Zb1.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/e7cpUuhjkzuzss1CJHqEKpTNQqW.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/16866</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe0nLq5sKezsaWct7ibwdvZ28nck6GinKqdlKGTsMezytbUld6ep6Olrqebk8_W0uHZxdrP36Tc4-M=</url>
+		<language>el</language>
+		<size>510621590</size>
+	</movie>
+
+	<movie name="Playmobil: Future Planet">
+		<name>Playmobil: Future Planet</name>
+		<poster>http://image.tmdb.org/t/p/original/blKu0AnRxXIMAv17OLnx7fIvS2g.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/m8F942JeVx4wg3BJ63cWwJecYhS.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/77764</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe1uayxt8q-vMW3oZ6bt8TMwratk7y9sMayuJWvusWcqp2Vmg==</url>
+		<language>el</language>
+		<size>237386398</size>
+	</movie>
+
+	<movie name="Pocahontas II: Journey to a New World">
+		<name>Pocahontas II: Journey to a New World</name>
+		<poster>http://image.tmdb.org/t/p/original/rf6COd7IMIdzEDXxjHu9VLbkdp2.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/2AaMO7PqBdwuM6PTL8grI6oPAaq.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13761</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qelmcCqpaKguqCVnr2bwd7bzszX1ODS4qW2rZWw2-bh5tLdldrbntClu8nfk8Pg4eTRkZmfpamcvMOous_cnsfu1qiVp6-knKqdxd7P</url>
+		<language>el</language>
+		<size>403355520</size>
+	</movie>
+
+	<movie name="Pocahontas">
+		<name>Pocahontas</name>
+		<poster>http://image.tmdb.org/t/p/original/cmK0GIn2TdcmuVlyAkK6maoHSmH.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/mCtDNdEqDDRKuwFxCNDYrHUnc27.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10530</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfFq7Obt7O90bqVurGbwd7bzszX1ODS4qWenaGbmbXFvL_N2JPE59i8mqWrmZmmoNnjzQ==</url>
+		<language>el</language>
+		<size>590537126</size>
+	</movie>
+
+	<movie name="Pooh's Grand Adventure: The Search for Christopher Robin">
+		<name>Pooh's Grand Adventure: The Search for Christopher Robin</name>
+		<poster>http://image.tmdb.org/t/p/original/bUwW8ks5N7px9rCvhDkmg52cDIk.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/enyIjvOyOnkjNttuzeHAtBAVKAp.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/14903</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qevpbuzuri60Lq7m66byNjm283Nk8DZ1KW909fO35685-DYla3e0t3cmqXM3NHf4-3fyZWXpaqmpbG6rLjV4dDu1g==</url>
+		<language>el</language>
+		<size>424367010</size>
+	</movie>
+
+	<movie name="Princess Mononoke">
+		<name>Princess Mononoke</name>
+		<poster>http://image.tmdb.org/t/p/original/P5SInNaZS4a77pCuNrz9B1GQrA.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/8X1S5rpMzo0AUJFk0WS2DTF7ikp.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/128</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2Naeq6GnoZ6dobG6pJ2ZlqS3nw==</url>
+		<language>el</language>
+		<size>1926419695</size>
+	</movie>
+
+	<movie name="Racing Stripes">
+		<name>Racing Stripes</name>
+		<poster>http://image.tmdb.org/t/p/original/g29AemO8hCbOlhlGWZBSWP8VTZN.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/nHyWJ5bndP8hZYBnspe6AWLkUz4.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/6439</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfClruXw6SmrbqZqb6by9Ta38WVyt7g3N3O19XWoA==</url>
+		<language>el</language>
+		<size>808873322</size>
+	</movie>
+
+	<movie name="Ratatouille">
+		<name>Ratatouille</name>
+		<poster>http://image.tmdb.org/t/p/original/wbG9OoWlkZ7QRyxfvpjdWUbfREX.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/sFpGI08aeHIRKlLi9SxLyYrRyZ8.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/2062</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe6ra6YnrmlxaG8sbS8vcGnv6W8p8DAxMG5sK2TnqGfrw==</url>
+		<language>el</language>
+		<size>567615146</size>
+	</movie>
+
+	<movie name="Recess: School's Out">
+		<name>Recess: School's Out</name>
+		<poster>http://image.tmdb.org/t/p/original/eclW5yA0X2A4F4qDlqJ354phBr1.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/gAvX78xeCQrZbQlTFI3nlc1CUSR.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/19405</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeenMGqo7-mrLWsm7mbw7S7sre7k7-0t8e8sLuTu8bDpbS2rau3nrDNsa23x-La</url>
+		<language>el</language>
+		<size>439797977</size>
+	</movie>
+
+	<movie name="Return to Never Land">
+		<name>Return to Never Land</name>
+		<poster>http://image.tmdb.org/t/p/original/zRyjRf64k9GVQnZ6hxtAr2s1upj.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/4yN4gLc0mZNORp9hQwj5kwdxw3q.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/16690</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe6l72-rbiiysCywbSbwbTMsraVtq2_nKqatq26wcO9pcGzlbSxx7TKuaW2qs3n2A==</url>
+		<language>el</language>
+		<size>397223953</size>
+	</movie>
+
+	<movie name="Rio">
+		<name>Rio</name>
+		<poster>http://image.tmdb.org/t/p/original/isQ9BSjdF8IrSm2g4WPHSJYN5s9.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/odbEuhGUgSkeWWD1sPoylXTZMUa.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/46195</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnrDOzuHIpOOo6KGa2ZW-ur6mtLaWp8G1uMebxd7Pmtnj5dk=</url>
+		<language>el</language>
+		<size>263539232</size>
+	</movie>
+
+	<movie name="Rise of the Guardians">
+		<name>Rise of the Guardians</name>
+		<poster>http://image.tmdb.org/t/p/original/sIZr3pWcnLTjMkOaTkBrV967lTK.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/rPuBAlz8CACWwdGEDpI2eTjKswk.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/81188</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfCpratrqLEvLuZmaibw9jr0pHXzJnl192aq93H3tXY2dvXlZicoqGlr7a6z9yepqqd1JWovsPY6JrcmpygnrC7oJGdl9nc5Q==</url>
+		<language>el</language>
+		<size>1475430114</size>
+	</movie>
+
+	<movie name="Robin Hood">
+		<name>Robin Hood</name>
+		<poster>http://image.tmdb.org/t/p/original/1OBcWvIrrvOWMkCWgYFz26ymOp1.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/jCtNQM8NwBOf95pWyidOBa5PuI8.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/11886</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qexm7atoqOnwKKYmaebw97a1tKVrtvg0-XY2g==</url>
+		<language>el</language>
+		<size>748811748</size>
+	</movie>
+
+	<movie name="Robots">
+		<name>Robots</name>
+		<poster>http://image.tmdb.org/t/p/original/6R7XAaW12OQYMlcAlEhwM4lXE5x.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/ghuxj8NDaJ1tpxC6pCaFPz4LWZi.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9928</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnrHextDL2uXd69DV2JW-4NHn4dfHmJyhpNfMq9rFrebT4dzDls7g3ts=</url>
+		<language>el</language>
+		<size>335005572</size>
+	</movie>
+
+	<movie name="Sammy's Adventures 2">
+		<name>Sammy's Adventures 2</name>
+		<poster>http://image.tmdb.org/t/p/original/6ae8eQtoZDO4bBEXyXIIkA7oSSB.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/ySbC9u10SnL7vfzEWPRIMdtigvU.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/113594</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qemubuaxaqny7Sor66bxNDl2t3bk63V5d3b2N3Y0eScqpqWmJeenrPOsbbR1g==</url>
+		<language>el</language>
+		<size>527696596</size>
+	</movie>
+
+	<movie name="Saving Santa">
+		<name>Saving Santa</name>
+		<poster>http://image.tmdb.org/t/p/original/bTDRUa0oQFzlio4D6PAwNPUTFX7.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/daZN4XfgtcC2tJA36HIfc9MQRAH.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/238302</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfEtq-1t7nEx6S7nb2bxNDu1tLPk7_S3ezOkZqWnaTQ7tY=</url>
+		<language>en</language>
+		<size>468617658</size>
+	</movie>
+
+	<movie name="Scooby-Doo Goes Hollywood">
+		<name>Scooby-Doo Goes Hollywood</name>
+		<poster>http://image.tmdb.org/t/p/original/z99vA0ezaGMI6VBHEjet5iCCIGa.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/7yJoJkrX68cp0oTD1ftvEcrPX9w.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/36972</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qekucC7wam2qcCrv5mbxNLn3Mbhk7Tg2-Tm29fV0A==</url>
+		<language>el</language>
+		<size>346341175</size>
+	</movie>
+
+	<movie name="Scooby-Doo and the Alien Invaders">
+		<name>Scooby-Doo and the Alien Invaders</name>
+		<poster>http://image.tmdb.org/t/p/original/eL8n4WyZLz4jKALs3WdiSkMNhLu.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/9nhSHhwWIsSM7wexL6URrWeEn5d.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/20410</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qexl56drbzGr7-lmr6bxNLn3Mbhk7Dg3qXO0syT4NnUpa7Q0cvanrjm48XMy97k0O7W</url>
+		<language>el</language>
+		<size>565500216</size>
+	</movie>
+
+	<movie name="Scooby-Doo and the Ghoul School">
+		<name>Scooby-Doo and the Ghoul School</name>
+		<poster>http://image.tmdb.org/t/p/original/bKhC8S9A6g3vd2I2vqM0nNbhfjd.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/qf5ATDAgqEdcqNparuHaMNqiaeR.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13350</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe7naG7t7jGw7WsmpqbxNLn3Mbhk7Dg3qWu0syTwNnUpbTM19vYnsLb1dPX0pm1xby_zdiTxOfYvJq0mrbN59g=</url>
+		<language>el</language>
+		<size>835187173</size>
+	</movie>
+
+	<movie name="Scooby-Doo on Zombie Island">
+		<name>Scooby-Doo on Zombie Island</name>
+		<poster>http://image.tmdb.org/t/p/original/j1Pl3ztuweSQ3pReunO3WM7boju.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/yWLwD1VV5CaftlEEy3iQnGsWFCB.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13151</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaerbGdmZyksqi6sJSYnp6hpw==</url>
+		<language>el</language>
+		<size>738151832</size>
+	</movie>
+
+	<movie name="Scooby-Doo! Adventures: The Mystery Map">
+		<name>Scooby-Doo! Adventures: The Mystery Map</name>
+		<poster>http://image.tmdb.org/t/p/original/6H2I66eBT9KCA5qW6rPROQSeMIh.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/dq91UAw4PwRynruErMIolIFQ6lS.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/210769</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qekvbWco8SxscKVrJybxLLHvKbBk7DAvqWuqL6rusXEyrK3lbq0tpzFxre8q77KnMWutJWYnKKipbG6rLjV4Q==</url>
+		<language>en</language>
+		<size>241918337</size>
+	</movie>
+
+	<movie name="Scooby-Doo! Legend of the Phantosaur">
+		<name>Scooby-Doo! Legend of the Phantosaur</name>
+		<poster>http://image.tmdb.org/t/p/original/uCMqHzpTtfPe1J5x9xyDvZHkz0s.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/jG8am9RcxSeQoNDFyUSKRTgh1hL.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/67900</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaesK6YrZ6ipbOxr6ipqZ60qA==</url>
+		<language>en</language>
+		<size>285338625</size>
+	</movie>
+
+	<movie name="Scooby-Doo! Mask of the Blue Falcon">
+		<name>Scooby-Doo! Mask of the Blue Falcon</name>
+		<poster>http://image.tmdb.org/t/p/original/yx7ETzhiX7A3QATGJ556F41bzfc.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/pZsR99ydfCXMG1NcoNcfOTU1rp9.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/151535</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaevqCVmaqvsrOwopmZp6Wzpw==</url>
+		<language>en</language>
+		<size>734140416</size>
+	</movie>
+
+	<movie name="Scooby-Doo! Pirates Ahoy!">
+		<name>Scooby-Doo! Pirates Ahoy!</name>
+		<poster>http://image.tmdb.org/t/p/original/yyun5ydjerqJrqgyIKAzvjWEHKb.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/xMBylydWQCftbG8QGhxUqKtsU56.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13355</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe7rLa9w7zIur-3qaqb5NLn3Mbh1tHa4dnhyds=</url>
+		<language>el</language>
+		<size>493732588</size>
+	</movie>
+
+	<movie name="Scooby-Doo! Stage Fright">
+		<name>Scooby-Doo! Stage Fright</name>
+		<poster>http://image.tmdb.org/t/p/original/kjFd90hcHIBdWhU6uPtwUO1Z2c1.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/y7JrXeL0QuekDVThZkXaSvzNudb.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/203696</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejnZ-furzIx7-5u7ubxLLHvKbBk7DAvqXAuKmtsZ61yrarsLqZo5-poJGv2NHW2qWu2czP256zzrG20daZsrC7mpmZk9CltM3ByanT2eGj</url>
+		<language>el</language>
+		<size>404513395</size>
+	</movie>
+
+	<movie name="Scooby-Doo! WrestleMania Mystery">
+		<name>Scooby-Doo! WrestleMania Mystery</name>
+		<poster>http://image.tmdb.org/t/p/original/vl4hhiHqDcIWjA3GDTdohhIL6E9.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/5IX0f8HrTZRUyqY0lOuUSvaRFF8.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/258893</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe8rpmvuamkubOVuLe7vaKnwMfX1c7qnLzc05W93tbi7NnJ1cfa2tClut3b2tHj6KWflJmamci0ur_N2A==</url>
+		<language>en</language>
+		<size>536003348</size>
+	</movie>
+
+	<movie name="Scooby-Doo! and the Goblin King">
+		<name>Scooby-Doo! and the Goblin King</name>
+		<poster>http://image.tmdb.org/t/p/original/uLCOm4mrq4goip0XJaoVp1nIkbV.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/n98VIuKIbxNuEpBozfNR412ifgr.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/12903</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2Naeq6SqoZuytKi7namama-0tQ==</url>
+		<language>el</language>
+		<size>734038016</size>
+	</movie>
+
+	<movie name="Scooby-Doo! in Where's My Mummy?">
+		<name>Scooby-Doo! in Where's My Mummy?</name>
+		<poster>http://image.tmdb.org/t/p/original/sffialPFPUZ1Jq6rYFRdn4UaqlM.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/uPlyGZftzhmYxgVkIs00GlzegRW.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/20558</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaerqWnn5iuqqStsaihm6SzpQ==</url>
+		<language>el</language>
+		<size>694537362</size>
+	</movie>
+
+	<movie name="SeaFood">
+		<name>SeaFood</name>
+		<poster>http://image.tmdb.org/t/p/original/lMIBy4qsBNeb6xyXbESPAi9lRey.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/4ELvw2Uys9xmQ6WTH1AQosgBPt5.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/79842</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnvKhlp3ezeHcrqTXyZW_1tTXs9PXysvQoaielcfFsMezytbUx77i2rPXr6bWuLPQzsvi1M3YuuDl2cy4zcfZ0J3Z482WzuDe2w==</url>
+		<language>en</language>
+		<size>224757430</size>
+	</movie>
+
+	<movie name="Secret of the Wings">
+		<name>Secret of the Wings</name>
+		<poster>http://image.tmdb.org/t/p/original/4oBoAsIGEw9z4R5XqhtuVmpznGk.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/4cs7Osz4aUh4omkOTdtXw69x9cp.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/75258</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe1mLWtv7K80MW3wJubxbjGuKm6qLG9u6XAqau4scWcx7ORvK6xnsbBu6u7k7m2w7m0sL-6tcS8vbuzlarCtcHh3ZHA3NW10O7W</url>
+		<language>el</language>
+		<size>476465934</size>
+	</movie>
+
+	<movie name="Shark Tale">
+		<name>Shark Tale</name>
+		<poster>http://image.tmdb.org/t/p/original/zSHqX4qklYrHMEcv2GiHG5UwVsz.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/vhVDsHRXIJowRrTdcJQtW3US6Jq.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10555</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfElra-uaLEqq6YnL6bxNfZ38-Vus3d1KWflJiambXFvL_N2Mfi2g==</url>
+		<language>el</language>
+		<size>614689632</size>
+	</movie>
+
+	<movie name="Shrek 2">
+		<name>Shrek 2</name>
+		<poster>http://image.tmdb.org/t/p/original/6xgxJuJepxAHDXWKW6xb6So6ARd.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/nJ0TsLEeht6y30AMryc4ElQ8gzp.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/809</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qedp5men8u4xMG4spe-tb6nwKy6q7eeoQ==</url>
+		<language>el</language>
+		<size>436005403</size>
+	</movie>
+
+	<movie name="Shrek the Third">
+		<name>Shrek the Third</name>
+		<poster>http://image.tmdb.org/t/p/original/6xgxJuJepxAHDXWKW6xb6So6ARd.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/kF8Q8cFd3Q0IHHLhqpAIb85mcB8.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/810</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfGrJucwqehzr6Uq6nByqOnwKy6q7eew8CykbyutcOz</url>
+		<language>el</language>
+		<size>488578707</size>
+	</movie>
+
+	<movie name="Sinbad: Legend of the Seven Seas">
+		<name>Sinbad: Legend of the Seven Seas</name>
+		<poster>http://image.tmdb.org/t/p/original/6LELf4ZzVBJwR9mNq86Mf5QVERS.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/bqzJsag3BAx1d6GkS3lthC2XCga.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/14411</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejmsG_s6iirru3maqbxNjmz8XMk7jW1t3byJXV0p7j4NKRu8vi1t2lwMnJ2Zmjn6igkay8sMPY6M7a0Q==</url>
+		<language>el</language>
+		<size>437464834</size>
+	</movie>
+
+	<movie name="Snow Queen">
+		<name>Snow Queen</name>
+		<poster>http://image.tmdb.org/t/p/original/A3HYujkBGiF1FwXGZ8fdLp0OSUT.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/5joEWNw6a6Kn3Q0wpxEad13DvDf.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/164372</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qexs5mds7Kwv7GXn6ibxN3n5JG529HW3aWflJmYmbOzytbU</url>
+		<language>en</language>
+		<size>388316960</size>
+	</movie>
+
+	<movie name="Space Chimps">
+		<name>Space Chimps</name>
+		<poster>http://image.tmdb.org/t/p/original/n2vpJWGYnkyu4k4hwcO6DFF8HDh.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/dh2jGkBiLr7XRrp55mGj5wnOLzd.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/11802</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfEu6y5ubPGz6SmmrWbxN_Z0MmrztXe3-uflJies8O0vbiovqq-2t_Q482sk7G92LnO2tE=</url>
+		<language>el</language>
+		<size>435125754</size>
+	</movie>
+
+	<movie name="Space Dogs">
+		<name>Space Dogs</name>
+		<poster>http://image.tmdb.org/t/p/original/mDIx5IoCbaDQbNohV3H3Xr7TiVm.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/7f1gvDWdnajjN1GXxYB7kk2fuyY.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/36696</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfFr7q5xMqnz6Cxt76bxL-5sKmstbPEnKqdlZnH4to=</url>
+		<language>el</language>
+		<size>439668133</size>
+	</movie>
+
+	<movie name="Spirit: Stallion of the Cimarron">
+		<name>Spirit: Stallion of the Cimarron</name>
+		<poster>http://image.tmdb.org/t/p/original/nhrcR2KtVjXxJNSrPvcxVSyEf4c.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/710YOiGmA6aOfEbVGphwkadDvNh.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9023</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejqMCcxMO-z6KZvZqbxL_Bv628k7_l0OTZzdfUmcDVpcHMzZOv2tzZ39bX1Jmjn6if</url>
+		<language>el</language>
+		<size>421647757</size>
+	</movie>
+
+	<movie name="Stuart Little 2">
+		<name>Stuart Little 2</name>
+		<poster>http://image.tmdb.org/t/p/original/48PioggzfUbpRHjyQom4q9nmWGS.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/p8Z1nsE1HXSQgh8thJVAlMSSSHz.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10996</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnuikzNbW4uno29fQnpW_5eTZ39jHstXl4-TSw5rFnqGfqsyovqq-2t_XzKvaxa3m0-Hcw5bO4N7b</url>
+		<language>el</language>
+		<size>306507957</size>
+	</movie>
+
+	<movie name="Stuart Little">
+		<name>Stuart Little</name>
+		<poster>http://image.tmdb.org/t/p/original/hZBvmTGfCnqJ5MEi8b32i5P9Pmc.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/bfiybUiH5TEiuk1Znn2cYG4w0YD.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10137</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnrGfydzX4t7osObN1ZW_5eTZ39jHstXl4-TSw5mfparOvMOous_c0M6_38Op29Da3tebzNzT2A==</url>
+		<language>el</language>
+		<size>292862685</size>
+	</movie>
+
+	<movie name="Superman - The Last Son of Krypton">
+		<name>Superman - The Last Son of Krypton</name>
+		<poster>http://image.tmdb.org/t/p/original/rQxVTe0glwMxj5175E2pwmDqhXH.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/whQFoMgFoX5fLaO6jtX97aPBLeN.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/49076</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnuLhxteb0ajd4tKdmZW_5t_d39HJ1MvQw-DSw7TH3-XOy9zSx9XS0Lrq5tTc1drQoLGmmpbO4N7b</url>
+		<language>el</language>
+		<size>228666534</size>
+	</movie>
+
+	<movie name="Superman/Batman: Public Enemies">
+		<name>Superman/Batman: Public Enemies</name>
+		<poster>http://image.tmdb.org/t/p/original/7eaHkUKAzfstt6XQCiXyuKiZUAw.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/aMyEMGuW2NV3A0whuEM7VKp6M73.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/22855</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaerLGlmJevobCuoaWqlqK2sg==</url>
+		<language>en</language>
+		<size>451681182</size>
+	</movie>
+
+	<movie name="Surf's Up">
+		<name>Surf's Up</name>
+		<poster>http://image.tmdb.org/t/p/original/m10YPoakWovnKdxUcHIn29lfXHQ.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/v6cvZfSAiUjvFVCCiaPNaZLA7gk.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9408</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2Naer6Cmnqifqae6pKWaqq-ipA==</url>
+		<language>el</language>
+		<size>730855424</size>
+	</movie>
+
+	<movie name="Tad, the Lost Explorer">
+		<name>Tad, the Lost Explorer</name>
+		<poster>http://image.tmdb.org/t/p/original/bAY99D8aljc6byKNfF1WNiwJ32k.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/iJZ1FleWX0gH9KbA4GLr4Nr5AZR.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/121734</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qemvaGnpbLGuruZtpmbxdDcmrjQy5m93uvhka3e3N3e6tLWlZicoqGlr7a6z9yex-7WqJW81cGiysDZ2Mvev97uzpG8y83e0O7W</url>
+		<language>en</language>
+		<size>684346043</size>
+	</movie>
+
+	<movie name="Tarzan II">
+		<name>Tarzan II</name>
+		<poster>http://image.tmdb.org/t/p/original/4PMZm53uFvq1eSgNbosr9xJTCM1.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/mhleoBTypRbM9FivAJg1YiNFc7j.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15657</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnq3j0eLM5NSo7KKUyZXA0uHyztLHmMujn6iiw8et3tCw7dHN18Wa2ePl2Q==</url>
+		<language>el</language>
+		<size>222442711</size>
+	</movie>
+
+	<movie name="The Ant Bully">
+		<name>The Ant Bully</name>
+		<poster>http://image.tmdb.org/t/p/original/tBUlwDCdvYC5aP7DzgcmDgrbfec.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/gQ1MQIbEjBKTH5TBsnfv2vkMrJb.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9906</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaesZ6Vm5ulpKO8sp2hnZ2ypA==</url>
+		<language>el</language>
+		<size>733014016</size>
+	</movie>
+
+	<movie name="The Aristocats">
+		<name>The Aristocats</name>
+		<poster>http://image.tmdb.org/t/p/original/jKEwHW5feriPFA0QGZsk3cjQ5T9.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/nErMkyddzdXAwZly0hzgdlqpLud.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10112</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeml7unvsC8rqaXobubxdfdmqXaz9_l3rvO2NuTnaqmqJqovqq-2t-lxdrRqpmysqualpjH4to=</url>
+		<language>el</language>
+		<size>803563820</size>
+	</movie>
+
+	<movie name="The Black Cauldron">
+		<name>The Black Cauldron</name>
+		<poster>http://image.tmdb.org/t/p/original/dteeon90jLwZtQurCFfP2ivG4ZG.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/vb7aOVF1NEJAZRxEMCY4nlLLhCH.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10957</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnu2dm6DSz6rY3NjV3pXA2dTXr9DJydfQstni0MzY29_OqaacncXLuOHXrtnMz9vQneDh0dQ=</url>
+		<language>el</language>
+		<size>262674144</size>
+	</movie>
+
+	<movie name="The Croods">
+		<name>The Croods</name>
+		<poster>http://image.tmdb.org/t/p/original/b8RxbKeqLW2Nms16kDfAvQnxlfQ.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/vg2hf8eAZhULxtQRS87CbrH2WMQ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/49519</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qevuZ2qpaKkqqWrtb-bxdfdmqfa1dvV4qWflJmZmaihqN2Rqri-2t-lrqWrk-Sjpay01s3L1560zL-r1dag</url>
+		<language>el</language>
+		<size>754609918</size>
+	</movie>
+
+	<movie name="The Day of the Crows">
+		<name>The Day of the Crows</name>
+		<poster>http://image.tmdb.org/t/p/original/mmL9xvtPCrj14ypx7vfRN49djyA.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/tZGKKeWGejt63jiSdi7MTAjCFE9.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/137193</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qemu7CuvqegrcW2wJ6bvdSlt9Pd2Jm11Ouap9fY2tbY5NnJ25OeoaCqmqq6q7q0t6Wxuqy41eGc0OPNrJOttKKlwbGqx-La</url>
+		<language>fr</language>
+		<size>569722995</size>
+	</movie>
+
+	<movie name="The Emperor's New Groove">
+		<name>The Emperor's New Groove</name>
+		<poster>http://image.tmdb.org/t/p/original/wcPEf7xYqiREsToIi7IQUjdt9QI.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/8uobnSIkPtrdAI2bV1J9GXkZYIh.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/11688</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_tp-9ory1qLOwnZ68vLOnwaytk7G-v72_s7qenqKmy5qyrb2ZuMHHvLqt</url>
+		<language>el</language>
+		<size>394688633</size>
+	</movie>
+
+	<movie name="The Flight Before Christmas">
+		<name>The Flight Before Christmas</name>
+		<poster>http://image.tmdb.org/t/p/original/3uhaZDndusBxgDW5GjNfBDhe8dI.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/xugSbNqzz0JIUSIsE6dsnUG1Qg8.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/25741</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejmMC9ucC8qsSlva2b4ePh4M3Y2NXf5-rW19zV4djU5tvF</url>
+		<language>en</language>
+		<size>487772307</size>
+	</movie>
+
+	<movie name="The Great Mouse Detective">
+		<name>The Great Mouse Detective</name>
+		<poster>http://image.tmdb.org/t/p/original/2JiVD1iIWw8hz2dN5pPLhGiDJ9T.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/29v52BXeqhBH7qvHyhdOnclPJQ6.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9994</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfCs5maraalsMabwZ6bs9Dr1tCVutTWnL_fycnamb7e7eDJlarR5dTb4c3ey5miqLCjxd7P</url>
+		<language>el</language>
+		<size>551737692</size>
+	</movie>
+
+	<movie name="The Hunchback of Notre Dame II">
+		<name>The Hunchback of Notre Dame II</name>
+		<poster>http://image.tmdb.org/t/p/original/p3asB3dpAV4zKmL0UFJn8FnJ0rd.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/1yV2iTR45ONfQPduK0fYBfkAJdt.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/12448</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfAlqCqrb7Cqr-Ynqebxdfdmqzd1M_Z0dnQz5XV0p695-HWzZOw0tzdmq2xk56hn6qaqL6qvtrfpa6nm5Ohopzwn5qck9fa2ufg0dPc</url>
+		<language>el</language>
+		<size>462688361</size>
+	</movie>
+
+	<movie name="The Hunchback of Notre Dame">
+		<name>The Hunchback of Notre Dame</name>
+		<poster>http://image.tmdb.org/t/p/original/xS6f48xcKsRHYI4XZh2tBwLcgku.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/emX6VwN8C3Q1T9wCTDMa8r3mfQA.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10545</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe7s567xafEz6a5qZ-bxdfdmqzd1M_Z0dnQz5XV0p695-HWzZOw0tzdmpWhn6Kes86xttHWmbKyq5qZmZPko6Wsms_R0dvk3OPj</url>
+		<language>el</language>
+		<size>537673910</size>
+	</movie>
+
+	<movie name="The Incredibles">
+		<name>The Incredibles</name>
+		<poster>http://image.tmdb.org/t/p/original/9k4sgKD79q0MDHSWIqNnHqOfOEV.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/iGknrkEyebPFmpQoLGy5L0utVxz.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9806</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe1vbe7urizqsCrwbGbxdfdttLL2NHV2NrZyduYnKGjrKWU2Ki-w9joxdrRqq20oq2exd7P</url>
+		<language>el</language>
+		<size>637269301</size>
+	</movie>
+
+	<movie name="The Invincible Iron Man">
+		<name>The Invincible Iron Man</name>
+		<poster>http://image.tmdb.org/t/p/original/7jDmWZW0C9nXEgsKNGs1nZT1EPv.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/1kXtLaTyuUT0zNZyglhNJBTC5mM.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13647</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnuCmypmd3ujV8tTezZW1497mzLHJ1MvQweHgycfV0tDD3dDM1tXi4OHdzJaYl5_Qs86xttHWy9C26sy33cjf0J3g4dHU</url>
+		<language>en</language>
+		<size>202009992</size>
+	</movie>
+
+	<movie name="The Iron Giant">
+		<name>The Iron Giant</name>
+		<poster>http://image.tmdb.org/t/p/original/d7nS7jdbhG6xa3DjmoBGdqTsGa6.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/11XLucJQvdgtchSfO0ZTbo966pp.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10386</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnuDi2uDg2Ken48_T1pXA2dTXttbX1Mu42Nnb2MeXpaqo17G6rNjV4Z3g4dHU</url>
+		<language>en</language>
+		<size>228017548</size>
+	</movie>
+
+	<movie name="The Jungle Book 2">
+		<name>The Jungle Book 2</name>
+		<poster>http://image.tmdb.org/t/p/original/9MXnhnqbubPy9NbFCvLJpg5VUns.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/mJP6tf0ScfoRZtagfsnWW7Jon1l.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/14873</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qefubC_nca-zaCVm5-bxdfdmq7d1NPd1KWv09fRmaOcqp2Um5Owx7PK1tTV0eI=</url>
+		<language>el</language>
+		<size>496905175</size>
+	</movie>
+
+	<movie name="The Jungle Book">
+		<name>The Jungle Book</name>
+		<poster>http://image.tmdb.org/t/p/original/7ZzFf3eO4Xgi5Vc0UO6eTZYrbs9.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/c2rWPWDJU6tIEHB9mA0BEmXDkAS.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9325</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe8q7qzoLXHv66ZvZybxdfdmq7d1NPd1KWv09fRmaKorqSRrLyww9jo2s_e</url>
+		<language>el</language>
+		<size>509322422</size>
+	</movie>
+
+	<movie name="The Lion of Judah">
+		<name>The Lion of Judah</name>
+		<poster>http://image.tmdb.org/t/p/original/ysQUQAWvTJHpaKcnjD54krLleJt.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/yzVJXc056HtHvuA4D9QQO6SGP0.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/46256</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnvCj2aHW4Nbm39fMmJXA2dSmuc3X1JrA1aa32czH1J-hqJ6Vlqi-w7jIm7zez9CescC_q5bH4tqd4OHR1A==</url>
+		<language>en</language>
+		<size>225334605</size>
+	</movie>
+
+	<movie name="The Little Mermaid II: Return to the Sea">
+		<name>The Little Mermaid II: Return to the Sea</name>
+		<poster>http://image.tmdb.org/t/p/original/z6tp0wb6E3L8h6viy42RGgeGRd5.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/rFxoz5577jcnsNDDvH4Hceo05Qw.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10898</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaerLGlmJiktrSvn5irnaWmpQ==</url>
+		<language>el</language>
+		<size>595675136</size>
+	</movie>
+
+	<movie name="The Little Mermaid: Ariel's Beginning">
+		<name>The Little Mermaid: Ariel's Beginning</name>
+		<poster>http://image.tmdb.org/t/p/original/iaDWcoDPQIxKbuXQvGjthgGKuCH.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/zEtHDg5e0H4C0VEIspHN3yTATpv.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13676</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qelncG0t8PBxby7n5ibvrjDv62VrbvDtse7pbynmcHBx8Gllb6-wL3BrpG8rr-esMq2qbTH4to=</url>
+		<language>el</language>
+		<size>444869579</size>
+	</movie>
+
+	<movie name="The Lorax">
+		<name>The Lorax</name>
+		<poster>http://image.tmdb.org/t/p/original/6FuYtjegxaUv7n7C733hUEOQytR.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/7CuXAFUWcOlR5kt07ln1fZDxdHX.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/73723</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaeuZ-lqZmvsqG7sKahn52ysA==</url>
+		<language>el</language>
+		<size>1469935616</size>
+	</movie>
+
+	<movie name="The Magic Roundabout">
+		<name>The Magic Roundabout</name>
+		<poster>http://image.tmdb.org/t/p/original/2swuFtgcORObhrMES2pIjWQFbCp.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/lwWYBYctjImGYbiy02Guwd6UZF1.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/16455</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4pbC1namyr8W-nrSksrenwczNk7nS1uHQkbrV4d_T2c_T3dqZo5-oopGquL7a3w==</url>
+		<language>el</language>
+		<size>659222083</size>
+	</movie>
+
+	<movie name="The Night Before Christmas">
+		<name>The Night Before Christmas</name>
+		<poster>http://image.tmdb.org/t/p/original/dBpGkJydcclazkTDilmWaC1upEg.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/fVYWdVrfNnRAExgTjlFAd6U1ZC3.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/39894</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4u7C1rb6zy6KXoa2bxb7FmqW2qpm7tMq_vbuTr7nBwcC4tae_nr-5v7jBx-La</url>
+		<language>el</language>
+		<size>246590172</size>
+	</movie>
+
+	<movie name="The Nut Job">
+		<name>The Nut Job</name>
+		<poster>http://image.tmdb.org/t/p/original/uyWyeUvnSTiufwzXhWEBfzuEeRv.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/jI7CgqGWE4LJO610PhVobYyGynj.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/227783</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qehvbKtvaW6xsOatb_FpranwczNk7rm46W308qTnqGgrM7a0Q==</url>
+		<language>en</language>
+		<size>444078414</size>
+	</movie>
+
+	<movie name="The Pagemaster">
+		<name>The Pagemaster</name>
+		<poster>http://image.tmdb.org/t/p/original/yMnDgWeFQP903aPJvh5HAvyQycw.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/eCycNSli1RGn5YBCB6qTjP3eShp.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/15139</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_t6yqobjHwKSbnJ6bxdfdmrTJzdHe0OvhydqTnaqorJqovqq-2t_l3Zg=</url>
+		<language>el</language>
+		<size>403083183</size>
+	</movie>
+
+	<movie name="The Pirates! In an Adventure with Scientists!">
+		<name>The Pirates! In an Adventure with Scientists!</name>
+		<poster>http://image.tmdb.org/t/p/original/z3abtsVuypFShFkfvTOjzATkeg9.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/yJT2JCdjtuH5K202bC4YL0wOYD2.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/72197</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeis8Gxpb62x6Gbr7mbxdfdvc3ax-DW4rrO0szV0r7Y69PN3NmeoaCqsbqs</url>
+		<language>en</language>
+		<size>473895588</size>
+	</movie>
+
+	<movie name="The Polar Express">
+		<name>The Polar Express</name>
+		<poster>http://image.tmdb.org/t/p/original/dYrdxI5ty3SfMiep2GDvRyXEc4W.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/mXPoxiRny3VPH0iXJWXlyTq1mjo.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/5255</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnvDclc7dz-Xi7N-WoZXA2dTXvdPUx97QtPDd1s3Z39ChqJ2Yx8Wz48654sjR1cuf1-za0A==</url>
+		<language>el</language>
+		<size>309364348</size>
+	</movie>
+
+	<movie name="The Reef 2: High Tide">
+		<name>The Reef 2: High Tide</name>
+		<poster>http://image.tmdb.org/t/p/original/pZB0DUS7ik9YlyVuBlGI509mQnS.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/aQLkKf7uQhv8WWtsZ9cnqEPlRSp.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/132601</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe0rb-su7ey0MGVwJnCubunwaytk762tL6alpWutbi3pcGtrKuZo5-poJGsvLDD2Oia3JqcoJ6wu6DF3s8=</url>
+		<language>el</language>
+		<size>596855130</size>
+	</movie>
+
+	<movie name="The Reef">
+		<name>The Reef</name>
+		<poster>http://image.tmdb.org/t/p/original/1HNcFN8WhYXCqVIMYAyEwuCqth9.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/fFqbvTfBTxYQvySlnXysqAKA0AY.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/19595</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe6l5q1w6Wjr66ym5-bxNfZ38-VqM3a46WflJicmbXFvL_N2NPX5w==</url>
+		<language>el</language>
+		<size>503362816</size>
+	</movie>
+
+	<movie name="The Rescuers">
+		<name>The Rescuers</name>
+		<poster>http://image.tmdb.org/t/p/original/46W2yCZgfhpeV1OOLeOCczoosXD.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/bHRboVSfqYzILQSm4o7lPG031HT.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/11319</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeivaqzvsmxsMCWtr6bxdfdmrbN2c_m1OrgkZmfo6icvMOous_c0uXh</url>
+		<language>el</language>
+		<size>489962755</size>
+	</movie>
+
+	<movie name="The Road to El Dorado">
+		<name>The Road to El Dorado</name>
+		<poster>http://image.tmdb.org/t/p/original/vHUQfuBZaG4DHiR1TnEQ8XvBgM0.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/t7NjcAUeR3xW9xdgMbDZvWZO4PA.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10501</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2Naevp2lnaqyqrOpo5agmrG3og==</url>
+		<language>el</language>
+		<size>735162368</size>
+	</movie>
+
+	<movie name="The Smurfs 2">
+		<name>The Smurfs 2</name>
+		<poster>http://image.tmdb.org/t/p/original/mF2FXzZ3EktWoagU4fzoabNsK6J.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/n30BIaHsQAHqjagru4fKgYGRRJs.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/77931</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qemvZ69sLmix6-aoLmb5Nzt38rbzd7W1OM=</url>
+		<language>el</language>
+		<size>699976945</size>
+	</movie>
+
+	<movie name="The Smurfs : The Legend of Smurfy Hollow">
+		<name>The Smurfs : The Legend of Smurfy Hollow</name>
+		<poster>http://image.tmdb.org/t/p/original/cwEHTrBiJqjUwm9THSkgLuV1E9W.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/mOwmwzuN1vSb1WhqkXDaHs8CpGT.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/220845</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe8t7C1ur6nz6Czv76bxNzt38rbk8DZ1KW5yc_L2tWc59ORu9Ph49XxmqzX0tjg5qWflJmZ</url>
+		<language>el</language>
+		<size>185289496</size>
+	</movie>
+
+	<movie name="The Smurfs">
+		<name>The Smurfs</name>
+		<poster>http://image.tmdb.org/t/p/original/j2SvkGpJFugy2gbyzxCuX3ulXxh.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w376/ynCi6RF7by2QBvoT1HMRTQEg5KA.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/41513</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe8mMCno7iguqWZnLibxbe9mre1u763wqWflJmXs8O0vbiRqbuwur4=</url>
+		<language>el</language>
+		<size>679728262</size>
+	</movie>
+
+	<movie name="The Suicide Shop">
+		<name>The Suicide Shop</name>
+		<poster>http://image.tmdb.org/t/p/original/gRVIHuLW0unBsZrmm1J5ionOZAd.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/e9lYCahe1Ag61EewWwcqdvL3Ym5.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/118293</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaevKWcmZuvo7GtsZypm5yjpQ==</url>
+		<language>fr</language>
+		<size>536711334</size>
+	</movie>
+
+	<movie name="The Swan Princess: A Royal Family Tale">
+		<name>The Swan Princess: A Royal Family Tale</name>
+		<poster>http://image.tmdb.org/t/p/original/3qBPAUFUMOOT9KqUEYXWAKy93Ge.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/7V06IJAO9GPbC3zwaqwhiRsLZwA.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/254263</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejuJmZpLuh0qa0rrq4qaan3dbRzdfa2uaelw==</url>
+		<language>el</language>
+		<size>459826471</size>
+	</movie>
+
+	<movie name="The Sword in the Stone">
+		<name>The Sword in the Stone</name>
+		<poster>http://image.tmdb.org/t/p/original/owzXEW0QYQAvgMmUyqAXmRyphSi.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/pxHD1xIoLLBwcCRKtwLWtbJF3lq.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9078</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaerrGdq6ivprG-sKedqbCjtA==</url>
+		<language>el</language>
+		<size>288152293</size>
+	</movie>
+
+	<movie name="The Tale of Despereaux">
+		<name>The Tale of Despereaux</name>
+		<poster>http://image.tmdb.org/t/p/original/rIP1q11PHREhtKiY1uo8E5s7LGV.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/otiDe4tbyTct7hvNXVW6PsGVojZ.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10199</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2Naer7Kanqevt5-upp2Zm5yonw==</url>
+		<language>en</language>
+		<size>785966622</size>
+	</movie>
+
+	<movie name="The Twelve Tasks of Asterix">
+		<name>The Twelve Tasks of Asterix</name>
+		<poster>http://image.tmdb.org/t/p/original/VSOjIvBH168wKFURHBSpUjqGVt.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/eSiN8lPCM037SLhMTkaUk2wYpEm.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/9385</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qeet6qZo6WwurW5rKqbsuLs0tbR3pnF192auN_L2OfUpcHF29Hfnt7emqXb2tHj2PCalaGdop7FwMC20dbZ4aM=</url>
+		<language>el</language>
+		<size>733115170</size>
+	</movie>
+
+	<movie name="The Ugly Duckling and Me!">
+		<name>The Ugly Duckling and Me!</name>
+		<poster>http://image.tmdb.org/t/p/original/3hS8tsCCXl2oi4OSYKLIEGLgJA.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/apeRzczakZBvqBdqH0ZecTe8YKu.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13517</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaesKWcrKuyobSrppmtm56oow==</url>
+		<language>el</language>
+		<size>320434979</size>
+	</movie>
+
+	<movie name="The Yummy Gummy Search For Santa">
+		<name>The Yummy Gummy Search For Santa</name>
+		<poster>http://image.tmdb.org/t/p/original/krbJN3wokn48ELlsQhW8dJp5yOj.jpg</poster>
+		<fanart>http://scontent-b-lga.xx.fbcdn.net/hphotos-ash3/t1.0-9/551124_10151787074340005_35471730_n.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/142295</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe5s7Cqv7ekr7K-nLevxaCntNnV0-Wesd3O1pXZzefU65rXydTg0g==</url>
+		<language>el</language>
+		<size>309137463</size>
+	</movie>
+
+	<movie name="Thumbelina">
+		<name>Thumbelina</name>
+		<poster>http://image.tmdb.org/t/p/original/jSw5kfH7NoIF2iw8H7hyyElrJkU.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/m5SsT2w7j4IAL6HMrFMGzfjxnmB.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/28032</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2NaeuaaWmKmep6i-ppWdnK-osg==</url>
+		<language>el</language>
+		<size>292771789</size>
+	</movie>
+
+	<movie name="Tinker Bell and the Great Fairy Rescue">
+		<name>Tinker Bell and the Great Fairy Rescue</name>
+		<poster>http://image.tmdb.org/t/p/original/q1XaNjYOQ8WCsv3pt1QMeIVU43G.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/iYwfyTfYoazgyH8agO6mA5tDwPE.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/44683</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejsZirpcamsMOvn7-wprinwa22sbHDsb25sJWnurWczLWpla2-trDMmqqpr77KnMqyt6u7sZ62yrKps5OtxrPBvA==</url>
+		<language>el</language>
+		<size>395494293</size>
+	</movie>
+
+	<movie name="Tinker Bell and the Lost Treasure">
+		<name>Tinker Bell and the Lost Treasure</name>
+		<poster>http://image.tmdb.org/t/p/original/q1XaNjYOQ8WCsv3pt1QMeIVU43G.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/eCVyxdraegyZLxz47VxqJQ6xUZ9.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/25475</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe3lsK6nqe2xrSZmqfGpbinwa22sbHDsb25sJWnurWczLWplbK7xMOlwbatp7_Gwb0=</url>
+		<language>el</language>
+		<size>516020285</size>
+	</movie>
+
+	<movie name="Tom and Jerry Meet Sherlock Holmes">
+		<name>Tom and Jerry Meet Sherlock Holmes</name>
+		<poster>http://image.tmdb.org/t/p/original/6JFRJhby5y3qP56szDrYHUIovKi.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/pWCJzawxr4meH73RS6tHs38dcq2.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/43956</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_mpu_o6jHxZ6Yoaeb5d7l18na2OXZ3uTayds=</url>
+		<language>el</language>
+		<size>351934067</size>
+	</movie>
+
+	<movie name="Tom and Jerry's Giant Adventure">
+		<name>Tom and Jerry's Giant Adventure</name>
+		<poster>http://image.tmdb.org/t/p/original/AtF9rV5sXjvbjwiizLBCukPwYao.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/mLLm2N332l3vfxYAj6b2iAI6RZb.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/199753</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe8tpu9usqkxri2nbibxb7FmqW2qpm7tMq_vbuTs7qwxsGRqarCtr3Mwratk7DHs8rW1JW-4tqzpc7a0Q==</url>
+		<language>el</language>
+		<size>434802716</size>
+	</movie>
+
+	<movie name="Tom and Jerry: Robin Hood and His Merry Mouse">
+		<name>Tom and Jerry: Robin Hood and His Merry Mouse</name>
+		<poster>http://image.tmdb.org/t/p/original/pgSiXDQitMxob83jrQcNv1xQCTU.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/t6VP2ahy2CjUsuknXMh64r27y1c.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/134623</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe1lcGew7zHrruVu76bxd7lztHYsNHj4fG_08rP2rne59HF1da02uLF0tba37ng5OvS</url>
+		<language>en</language>
+		<size>449854238</size>
+	</movie>
+
+	<movie name="Tom and Jerry: The Movie">
+		<name>Tom and Jerry: The Movie</name>
+		<poster>http://image.tmdb.org/t/p/original/srvSS8AMyUfJjD7qcCdRWBfKMmJ.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/kZhrOCPFy9TC2PdIhqKar2Jkalf.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/22582</base>
+		<url>zNza3Kuep-Tb35TS2uHd0dbR3NGf0ufak87P2Naeq6alrJiftLWopaWenK2lpA==</url>
+		<language>el</language>
+		<size>199521312</size>
+	</movie>
+
+	<movie name="Top Cat">
+		<name>Top Cat</name>
+		<poster>http://image.tmdb.org/t/p/original/1tJ4jKMndBZ4Dsgt7zRAYXGqebG.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/hKcwz8m64E8TLjUjyYFm3yu9Bj2.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/78570</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe0mZ2Yw7-gq7WrsJyb5d7o1MXcxw==</url>
+		<language>en</language>
+		<size>530668127</size>
+	</movie>
+
+	<movie name="Toy Story 2">
+		<name>Toy Story 2</name>
+		<poster>http://image.tmdb.org/t/p/original/gd12nM0VnrgbaUmZDjte4oBedGZ.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/9Kjxr4VCU0Y4DAuXkzR2moAy7DK.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/863</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qegrKqtxaSzx6GdvbWbxd7xmrfc1d7qnKqalaGfpZ6zzrG20dbN59g=</url>
+		<language>el</language>
+		<size>607559025</size>
+	</movie>
+
+	<movie name="Toy Story 3">
+		<name>Toy Story 3</name>
+		<poster>http://image.tmdb.org/t/p/original/tOwAAVeL1p3ls9dhOBo45ElodU3.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/dji4Fm0gCDVb9DQQMRvAI8YNnTz.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/10193</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qevl7Cbs6a6x5-7nqibxd7xmrfc1d7qnKualpiXnJ6zzrG20dbN59g=</url>
+		<language>el</language>
+		<size>643725150</size>
+	</movie>
+
+	<movie name="Toy Story of Terror">
+		<name>Toy Story of Terror</name>
+		<poster>http://image.tmdb.org/t/p/original/kGiG3mJl1ciNFQQSeuP5W5cRRqN.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/2LWW3hQUg6uva02o0tWzxg3lrkE.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/213121</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qfEuZuzvqKjxqWdn5ebxd7xmrfc1d7qnOfTkbzL3uPe6pqWmJefnre8wbo=</url>
+		<language>en</language>
+		<size>118818992</size>
+	</movie>
+
+	<movie name="Toy Story">
+		<name>Toy Story</name>
+		<poster>http://image.tmdb.org/t/p/original/agy8DheVu5zpQFbXfAdvYivF2FU.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/dji4Fm0gCDVb9DQQMRvAI8YNnTz.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/862</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe7rJyztKXHxbG5s7ubxd7xmrfc1d7qnKmmnZ2TsMezytbUydzV</url>
+		<language>el</language>
+		<size>455510385</size>
+	</movie>
+
+	<movie name="Turbo">
+		<name>Turbo</name>
+		<poster>http://image.tmdb.org/t/p/original/j7wodQov4mcBrR0OvnBBL2437HI.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/original/dvdKrICCKP8Uh1Xqkn60oQXnYer.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/77950</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejvLadtKqxqrydtaib5eTqz9PVy-DS1uTc</url>
+		<language>el</language>
+		<size>495485666</size>
+	</movie>
+
+	<movie name="Unstable Fables: Tortise vs. Hare">
+		<name>Unstable Fables: Tortise vs. Hare</name>
+		<poster>http://image.tmdb.org/t/p/original/2NyNEbJNDxVzPy0wT4H37zPTlJQ.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/odWuMmp7JwuoQZEoiU3sAoNosSd.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13017</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnuvSlc_LnuDX7-GX15Xk1tvn28WW3N-f29nU09uUzefYptXY1dI=</url>
+		<language>el</language>
+		<size>204506664</size>
+	</movie>
+
+	<movie name="Up">
+		<name>Up</name>
+		<poster>http://image.tmdb.org/t/p/original/gfFqBcoFW8uczyl2ytVmVmUg82k.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/fI3ucpgaVKOUcQ82vhgWmWuLlg2.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/14160</base>
+		<url>zNza3Kuep-DY2svN3tLk3NnMlNHmnuqd09nU0OrbrKTHyZXBwZ2_v5Kpu7C6vqbO2tGU1OXc5A==</url>
+		<language>el</language>
+		<size>230682680</size>
+	</movie>
+
+	<movie name="Winnie the Pooh: A Very Merry Pooh Year">
+		<name>Winnie the Pooh: A Very Merry Pooh Year</name>
+		<poster>http://image.tmdb.org/t/p/original/3xuM4G7fUecAXCgSxddht0rD9w1.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/4UTLjSd2LxRvZaFwoYT2kHKF3j.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/13706</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qegnbObvqqir8S2v7ObyLjGu62tk8C5tKW9s7eumbKczrK2wZO5tsHKxpG4tbu5nNGypbqTnqGfqg==</url>
+		<language>el</language>
+		<size>581650118</size>
+	</movie>
+
+	<movie name="Winnie the Pooh: Springtime with Roo">
+		<name>Winnie the Pooh: Springtime with Roo</name>
+		<poster>http://image.tmdb.org/t/p/original/A4Sr5JKfvgAg9Lzo0k6VtghP6PZ.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/okwSBljHok2E0DUqDHqZ5x8xMbD.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/16394</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qejrMCcpLXB0aarn7mb6Njm283N2dzj2ObU2NHT0Z6hqJ2clari1ZzK1tQ=</url>
+		<language>el</language>
+		<size>427490284</size>
+	</movie>
+
+	<movie name="Wreck-It Ralph">
+		<name>Wreck-It Ralph</name>
+		<poster>http://image.tmdb.org/t/p/original/93FsllrXXWncp7BQYTdOU1XMRXo.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/oH39T1bwjztw6qh89pvVAJBsUUq.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/82690</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe4m7C_t8m9scK3n76byMG9sK-Vr8Cewbm5tLDT1-c=</url>
+		<language>el</language>
+		<size>671766158</size>
+	</movie>
+
+	<movie name="Zambezia">
+		<name>Zambezia</name>
+		<poster>http://image.tmdb.org/t/p/original/uGsmaLmDaDTxSIfMLyWeylgSpAZ.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/5xPTAstcnDpZWmai8mocGUHChKF.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/133931</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qekpaqcpae3sJ-sv6ib69Dl48niz80=</url>
+		<language>en</language>
+		<size>611965208</size>
+	</movie>
+
+	<movie name="Zarafa">
+		<name>Zarafa</name>
+		<poster>http://image.tmdb.org/t/p/original/ydLss78TkmdXXBcjTs9LHCadGlt.jpg</poster>
+		<fanart>http://image.tmdb.org/t/p/w780/b8F2xMjLBlXS34LSPbe2zZOts72.jpg</fanart>
+		<base>http://www.themoviedb.org/movie/94196</base>
+		<url>zNza3Kuep9PQydnU6Z3s45Pez9DW3qe_q7--rqq-r66om7Oby7DKrqqpk56hoKqaqL6qvtrfpcXa0aqZsrKrmpmZx-La</url>
+		<language>el</language>
+		<size>397388182</size>
+	</movie>
+</movies>

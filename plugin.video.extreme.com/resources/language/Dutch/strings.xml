@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Settings -->
+	<string id="30000">Algemeen</string>
+	<string id="30001">HD kwaliteit (indien beschikbaar)</string>
+	<string id="30002">Video's van gebruikers</string>
+	<!-- Info -->
+	<string id="30301"></string>
+	<string id="30302"> is als standaard ingesteld</string>
+	<string id="30303">Stream niet beschikbaar</string>
+	<!-- OK -->
+	<string id="30321">YouTube addon staat niet geοnstalleerd.</string>
+	<string id="30322">Deze stream vereist dat.</string>
+	<!-- Misc -->
+	<string id="30361">Volgende pagina</string>
+	<string id="30362">Zoeken</string>
+	<!-- ContextMenu -->
+	<string id="30401">Afspelen</string>
+	<string id="30402">Willekeurig afspelen</string>
+	<string id="30403">Afspelen vanaf hier</string>
+	<string id="30404">In de wachtrij plaatsen</string>
+	<string id="30405">Video in wachtrij plaatsen</string>
+	<string id="30406">Video downloaden</string>
+	<string id="30407">Add-on instellingen</string>
+	<string id="30408">Speel nu...</string>
+	<string id="30409">Home...</string>
+	<string id="30410">Stel video-weergave in</string>
+	<!-- Description -->
+	<string id="30450">Extreme sporten</string>
+	<!-- Labels -->
+	<string id="30501">Alle video's</string>
+	<string id="30502">Video's van gebruikers</string>
+	<string id="30503">MTB</string>
+	<string id="30504">BMX</string>
+	<string id="30505">Skate</string>
+	<string id="30506">Snowboard</string>
+	<string id="30507">Freeski</string>
+	<string id="30508">FMX</string>
+	<string id="30509">MX</string>
+	<string id="30510">Surf</string>
+	<string id="30511">Auto Sports</string>
+	<string id="30512">Kayak</string>
+	<string id="30513">Kitesurf</string>
+	<string id="30514">Outdoor</string>
+	<string id="30515">Wake</string>
+	<string id="30516">Windsurf</string>
+</strings>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Settings -->
+	<string id="30000">Général</string>
+	<string id="30001">Qualité HD si disponible</string>
+	<!-- Info -->
+	<string id="30301"></string>
+	<string id="30302"> est actif par défaut</string>
+	<string id="30303">Pas de source du média disponible</string>
+	<!-- OK -->
+	<string id="30321">YouTube n'est pas installé.</string>
+	<string id="30322">Cette source de media en a besoin.</string>
+	<!-- Misc -->
+	<string id="30361">Page Suivante</string>
+	<string id="30362">Recherche</string>
+	<!-- ContextMenu -->
+	<string id="30401">Lecture</string>
+	<string id="30402">Lecture Aléatoire</string>
+	<string id="30403">Lecture depuis ce point</string>
+	<string id="30404">Videos en attente</string>
+	<string id="30405">Mettre la vidéo en attente</string>
+	<string id="30406">Télécharger la vidéo</string>
+	<string id="30407">Paramètres de l'extension</string>
+	<string id="30408">Liste de lecture...</string>
+	<string id="30409">Retour à l'accueil...</string>
+	<string id="30410">Vue Globale</string>
+	<!-- Description -->
+	<string id="30450">Regarder les matchs de football à tout moment</string>
+	<!-- Labels -->
+	<string id="30501">Matchs</string>
+	<string id="30502">Temps Forts</string>
+	<string id="30503">Recherche</string>
+	<string id="30504">Premier League</string>
+	<string id="30505">La Liga</string>
+	<string id="30506">Bundesliga</string>
+	<string id="30507">Serie A</string>
+	<string id="30508">Ligue 1</string>
+	<string id="30509">Eredivisie</string>
+	<string id="30510">Primeira Liga</string>
+	<string id="30511">UEFA Champions League</string>
+	<string id="30512">UEFA Europa League</string>
+	<string id="30513">Copa Libertadores</string>
+</strings>

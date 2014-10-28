@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Settings -->
+	<string id="30000">General</string>
+	<string id="30001">Calitate HD când este disponibilă</string>
+	<!-- Info -->
+	<string id="30301"></string>
+	<string id="30302"> este activat implicit</string>
+	<string id="30303">Nu există fluxuri disponibile</string>
+	<!-- OK -->
+	<string id="30321">Suplimentul YouTube nu este instalat.</string>
+	<string id="30322">Acest flux îl utilizează.</string>
+	<!-- Misc -->
+	<string id="30361">Următoarea pagină</string>
+	<string id="30362">Căutare</string>
+	<!-- ContextMenu -->
+	<string id="30401">Redare</string>
+	<string id="30402">Redare aleatorie</string>
+	<string id="30403">Redare de aici</string>
+	<string id="30404">Lista de așteptare</string>
+	<string id="30405">Adaugă clip în lista de așteptare</string>
+	<string id="30406">Descarcă clip</string>
+	<string id="30407">Configurare supliment</string>
+	<string id="30408">Rulează acum...</string>
+	<string id="30409">Acasă...</string>
+	<string id="30410">Setează vizualizarea clipurilor</string>
+	<!-- Description -->
+	<string id="30450">Urmărește oricând meciuri din fotbal</string>
+	<!-- Labels -->
+	<string id="30501">Meciuri</string>
+	<string id="30502">Cele mai bune momente</string>
+	<string id="30503">Căutare</string>
+	<string id="30504">Premier League</string>
+	<string id="30505">La Liga</string>
+	<string id="30506">Bundesliga</string>
+	<string id="30507">Serie A</string>
+	<string id="30508">Ligue 1</string>
+	<string id="30509">Eredivisie</string>
+	<string id="30510">Primeira Liga</string>
+	<string id="30511">UEFA Champions League</string>
+	<string id="30512">UEFA Europa League</string>
+	<string id="30513">Copa Libertadores</string>
+</strings>

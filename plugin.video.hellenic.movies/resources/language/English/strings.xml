@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Settings -->
+	<string id="30000">General</string>
+	<string id="30001">Favourites</string>
+	<string id="30002">Sort by: Title</string>
+	<string id="30003">Sort by: Year</string>
+	<string id="30004">Sort by: Added</string>
+	<!-- Info -->
+	<string id="30301"></string>
+	<string id="30302"> is on by default</string>
+	<string id="30303">Added to Favourites</string>
+	<string id="30304">Removed from Favourites</string>
+	<string id="30305">Moved up</string>
+	<string id="30306">Moved down</string>
+	<string id="30307">Item already in Favourites</string>
+	<string id="30308">No stream available</string>
+	<!-- OK -->
+	<string id="30321">YouTube addon is not installed.</string>
+	<string id="30322">This stream requires it.</string>
+	<!-- Misc -->
+	<string id="30361">Next Page</string>
+	<string id="30362">Search</string>
+	<!-- ContextMenu -->
+	<string id="30401">Play</string>
+	<string id="30402">Random Play</string>
+	<string id="30403">Play from here</string>
+	<string id="30404">Queue</string>
+	<string id="30405">Queue video</string>
+	<string id="30406">Download video</string>
+	<string id="30407">Add-on settings</string>
+	<string id="30408">Now playing...</string>
+	<string id="30409">Home...</string>
+	<string id="30410">Set Movies view</string>
+	<string id="30421">Add to favourites</string>
+	<string id="30422">Remove from favourites</string>
+	<string id="30423">Move up</string>
+	<string id="30424">Move down</string>
+	<string id="30425">Remove</string>
+	<!-- Description -->
+	<string id="30450">Watch your favourite greek movies anytime you want.[CR]The addon includes an archive of recent and classic greek movies.</string>
+	<!-- Labels -->
+	<string id="30501">Title</string>
+	<string id="30502">Genres</string>
+	<string id="30503">Years</string>
+	<string id="30504">Added</string>
+	<string id="30505">Favourites</string>
+	<string id="30506">Search</string>
+</strings>

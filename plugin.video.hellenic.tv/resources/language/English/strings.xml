@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Settings -->
+	<string id="30000">Panhellenic</string>
+	<string id="30020">Cyprus</string>
+	<string id="30040">Thematic</string>
+	<string id="30060">Regional</string>
+	<!-- Info -->
+	<string id="30301">EPG retrieval is in progress</string>
+	<string id="30302">This channel is not available</string>
+	<!-- OK -->
+	<string id="30321">YouTube addon is not installed.</string>
+	<string id="30322">This stream requires it.</string>
+	<!-- Progress -->
+	<string id="30341">Opening stream</string>
+	<!-- Misc -->
+	<string id="30361">NOW</string>
+	<!-- ContextMenu -->
+	<string id="30401">EPG Information</string>
+	<string id="30402">EPG</string>
+	<string id="30403">NO PROGRAMME AVAILABLE</string>
+	<string id="30404">Refresh info</string>
+
+	<!-- PANHELLENIC -->
+	<string id="30501" ch="MEGA">The programming of Mega consists mainly of Greek programmes such as comedies, dramas, news and entertainment shows.</string>
+	<string id="30502" ch="ANT1">The programming of Ant1 consists mainly of Greek programmes such as comedies, dramas, news, reality and entertainment shows.</string>
+	<string id="30503" ch="STAR">Star features a mix of Greek and foreign shows with an emphasis on foreign movies and shows.</string>
+	<string id="30504" ch="ALPHA">Alpha features a mix of Greek and foreign shows with an emphasis on entertainment programs.</string>
+	<string id="30505" ch="SKAI">Skai features a mix of Greek and foreign shows with an emphasis on news, current affairs and documentaries.</string>
+	<string id="30506" ch="E TV">E TV features a mix of Greek and foreign shows with an emphasis on news and entertainment programs.</string>
+	<string id="30507" ch="MACEDONIA TV">Macedonia TV features a mix of Greek and foreign shows with an emphasis on entertainment programs.</string>
+	<string id="30508" ch="NET">NET is mainly a news and information channel that broadcasts daily newscasts, documentaries, talkshows and sporting events.</string>
+	<string id="30509" ch="ET3">The programming of ET3 consists of news and includes sports, movies, documentaries, tv shows, music and children's shows.</string>
+	<string id="30510" ch="NERIT">NERIT is mainly a news and information channel that broadcasts daily newscasts, documentaries, talkshows and sporting events.</string>
+	<string id="30511" ch="NERIT SPORTS">NERIT is mainly a news and information channel that broadcasts daily newscasts, documentaries, talkshows and sporting events.</string>
+	<string id="30512" ch="BOYLH TV">Vouli Television is the television network of the Greek Parliament. The program broadcasts all the inner workings of Parliament and includes various cultural programs, news, documentaries and opera.</string>
+	<string id="30513" ch="EURONEWS">Euronews is the leading international news channel covering world news from a European perspective. The channel broadcasts in Greek.</string>
+
+	<!-- CYPRUS -->
+	<string id="30521" ch="MEGA CYPRUS">The programming of Mega Cyprus consists mainly of Greek programmes such as comedies, dramas, news and entertainment shows. Broadcasts many of the programmes of Mega Greece and several Cypriot programmes.</string>
+	<string id="30522" ch="ANT1 CYPRUS">The programming of Ant1 Cyprus consists mainly of Greek programmes such as comedies, dramas, news, reality and entertainment shows. Broadcasts many of the programmes of Ant1 Greece and several Cypriot programmes.</string>
+	<string id="30523" ch="SIGMA">Sigma features a mix of Greek and foreign shows with an emphasis on sports, news, movies, series and telenovelas. It also has an affiliation agreement with Alpha from Greece.</string>
+	<string id="30524" ch="CAPITAL">Capital TV features a mix of Greek and foreign shows with an emphasis on sports, news, movies, series and telenovelas.</string>
+	<string id="30525" ch="RIK SAT">The international network of CyBC! A 24-hour programme of entertainment shows, cartoons, tv shows, weekly news reports, news and sports. The channel broadcasts in Greek and English.</string>
+
+	<!-- THEMATIC -->
+	<string id="30541" ch="NICKELODEON">Nickelodeon is the ultimate fun destination for children and the most popular cartoon and teen series channel in the world.</string>
+	<string id="30542" ch="NICKELODEON+">Nickelodeon+ is the ultimate fun destination for children and the most popular cartoon and teen series channel in the world.</string>
+	<string id="30543" ch="MTV">MTV is the largest music, entertainment and lifestyle channel in the world and it is a solid choice for young people.</string>
+	<string id="30544" ch="MAD TV">MAD TV is the first music station in Greece and it broadcasts music related programming including video clips, music news and interviews as well as concert footage.</string>
+	<string id="30545" ch="MAD TV CYPRUS">MAD TV CYPRUS is a music station in Cyprus and it broadcasts music related programming including video clips, music news and interviews as well as concert footage.</string>
+	<string id="30546" ch="MUSIC TV">MUSIC TV is a youthful and entertainment channel in Cyprus and it broadcasts music related programming including video clips, music news and interviews.</string>
+	<string id="30547" ch="GREEK CINEMA">Greek Cinema is a channel filled with the biggest stars and memorable films of Greek cinema. Greek movies, classic and modern.</string>
+	<string id="30548" ch="LAMPSI TV">Lampsi TV is a web channel that broadcasts diverse entertainment programming including movies.</string>
+	<string id="30549" ch="ALPHA GATV">Alpha GATV is a web channel that broadcasts diverse entertainment programming including movies.</string>
+	<string id="30550" ch="CY SPORTS">CySports is a 24-hour sports channel broadcasting racing events and activities from the 64 Cypriot Athletic Federations and aims to achieve the promotion of Cypriot talent in all sporting areas.</string>
+	<string id="30551" ch="ODIE TV">ODIE TV is a television network dedicated to covering live horseracing from all  racecourses in Greece. The channel is owned by ODIE.</string>
+
+	<!-- ATTICA -->
+	<string id="30561" ch="KONTRA CHANNEL">Kontra Channel is mainly an alternative news and information channel and its programming is enhanced with two ecological zones of programmes, but also with many other programmes.</string>
+	<string id="30562" ch="EXTRA 3">Extra 3 is an alternative news and information channel with telemarketing, news, current affairs and entertainment shows. In addition, the ratings of evening news zone are very high.</string>
+	<string id="30563" ch="ACTION 24">Action 24 is an alternative news and sports channel that exclusively broadcasts the championships of Netherlands, Belgium, Switzerland, Denmark, Ukraine and Russia.</string>
+	<string id="30564" ch="ART CHANNEL">The programming of ART consists current affairs programmes, programmes around the party that is supported by the network and music programmes.</string>
+	<string id="30565" ch="ZOOM">ZOOM is an news and information channel with telemarketing, news, current affairs and entertainment shows. The channel also broadcasts ZOUGLA TV programmes in Athens.</string>
+	<string id="30566" ch="ZOUGLA TV">ZOUGLA TV is an news and information channel with telemarketing, news, current affairs and entertainment shows. The channel is owned by zougla.gr news portal.</string>
+	<string id="30567" ch="ATTICA TV">ATTICA TV is a television network owned by the municipality of Aspropyrgos. The programming consists mainly of Greek programmes such as entertainment shows.</string>
+	<string id="30568" ch="HIGH TV">High TV is a television network broadcasting from Athens. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30569" ch="BLUE SKY">Blue Sky is a television network that broadcasts current affairs and educational programmes, foreign tv shows and entertainment programmes.</string>
+	<string id="30570" ch="CHANNEL 9">The programming of Channel 9 consists news, current affairs and business programmes, foreign movies and cartoons. It also includes news of Al Jazeera International in Greek language.</string>
+	<string id="30571" ch="SBC TV">SBC TV is the first television network in Greece that informs and presents news and developments from the field of economy and business.</string>
+	<string id="30572" ch="SMILE TV">Smile TV is a children's channel. The program consists of family-friendly and children's programmes.</string>
+
+	<!-- CENTRAL MACEDONIA -->
+	<string id="30581" ch="TV 100">TV 100 is a television network owned by the municipality of Salonica. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30582" ch="4E TV">4E TV is a religious television network owned by the Orthodox Church of Greece and is the first television channel in the world dedicated to the Greek Orthodox faith.</string>
+	<string id="30583" ch="EGNATIA TV">Egnatia TV is a television network broadcasting from Salonica. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30584" ch="VERGINA TV">Vergina TV is a television network broadcasting from Salonica. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30585" ch="GNOMI TV">Gnomi TV is a television network broadcasting from Salonica. The programming consists of music related programming such as video clips.</string>
+	<string id="30586" ch="EUROPE 1">Europe 1 is a television network broadcasting from Salonica. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30587" ch="DION TV">Dion TV is a television network broadcasting from Katerini. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30588" ch="XTV">XTV is a television network broadcasting from Chalcidice. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30589" ch="TV THESS">Thessaloniki TV is a television network broadcasting from Salonica. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30590" ch="PELLA TV">Pella TV is a television network broadcasting from Pella. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30591" ch="TIME CHANNEL">Time Channel is a television network broadcasting from Salonica. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30592" ch="EURO CHANNEL">Euro Channel is a television network broadcasting from Salonica. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30593" ch="KANALI 9">Kanali 9 is a television network broadcasting from Salonica. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+
+	<!-- CENTRAL GREECE -->
+	<string id="30601" ch="STAR KENTRIKIS ELLADOS">STAR Central Greece is a television network broadcasting from Lamia. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30602" ch="ENA TV">ENAtv is a television network broadcasting from Lamia. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30603" ch="ETV">ETV is a television network broadcasting from Livadia. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+
+	<!-- THESSALY -->
+	<string id="30621" ch="TRT">TRT is a television network broadcasting from Volos. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30622" ch="ASTRA TV">Astra TV is a television network broadcasting from Volos. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30623" ch="ZEUS">ZEUS TV is a television network broadcasting from Larissa. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30624" ch="THESSALIA TV">Thessalia TV is a television network broadcasting from Karditsa. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30625" ch="TV 10">TV 10 is a television network broadcasting from Trikala. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+
+	<!-- EPIRUS AND WEST GREECE -->
+	<string id="30641" ch="EPIRUS TV1">Epirus TV1 is a television network broadcasting from Ioannina. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30642" ch="VIMA TV">VIMA TV is a television network broadcasting from Ioannina. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30643" ch="ITV">ITV is a television network broadcasting from Ioannina. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30644" ch="ACHELOOS TV">Acheloos TV is a television network broadcasting from Agrinio. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30645" ch="START TV">Start TV is a television network broadcasting from Corfu. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30646" ch="CORFU CHANNEL">Corfu Channel is a television network broadcasting from Corfu. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30647" ch="ART TV">ART TV is a television network broadcasting from Arta. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30648" ch="KOSMO TV">Kosmo TV is a television network broadcasting from Ioannina. The programming consists mainly of Greek programmes such as music and entertainment shows.</string>
+
+	<!-- PELOPONNESE AND WEST GREECE -->
+	<string id="30661" ch="SUPER B">SUPER B is a television network broadcasting from Patras. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30662" ch="ACHAIA CHANNEL">Achaia Channel is a television network broadcasting from Patras. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30663" ch="BEST TV">BEST TV is a television network broadcasting from Kalamata. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30664" ch="ORT">ORT is a television network broadcasting from Pyrgos. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30665" ch="MESOGEIOS TV">Mesogeios TV is a television network broadcasting from Kalamata. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30666" ch="LEPANTO">Lepanto is a television network broadcasting from Νafpaktos. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30667" ch="IONIAN CHANNEL">Ionian Channel is a television network broadcasting from Zante. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30668" ch="TELETIME">TeleTime is a television network broadcasting from Patras. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30669" ch="COSMOS TV">Cosmos TV is a television network broadcasting from Pyrgos. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+
+	<!-- EAST PELOPONNESE -->
+	<string id="30681" ch="ELLADA TV">Ellada TV is a television network broadcasting from Sparta. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30682" ch="ELECTRA TV">ELECTRA TV is a television network broadcasting from Corinth. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30683" ch="DR TV">DR TV is a television network broadcasting from Argos. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30684" ch="AXION TV">AXION TV is a television network broadcasting from Corinth. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30685" ch="SUPER TV">Super TV is a television network broadcasting from Corinth. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30686" ch="MAX TV">MAX TV is a television network broadcasting from Nafplion. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30687" ch="TOP TV">Top Channel is a television network broadcasting from Corinth. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+
+	<!-- CRETE -->
+	<string id="30701" ch="KRITI TV">Kriti TV is a television network broadcasting from Heraclion. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30702" ch="CRETA TV">TV Creta is a television network broadcasting from Heraclion. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30703" ch="NEA TV">NEA TV is a television network broadcasting from Chania. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30704" ch="KYDON TV">Kydon TV is a television network broadcasting from Chania. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30705" ch="MY TV">MY TV is a music channel and it broadcasts music related programming including video clips and music news.</string>
+	<string id="30706" ch="CHANNEL 4U">Channel 4U is a television network broadcasting from Heraclion. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30707" ch="SITIA TV">SITIA TV is a television network broadcasting from Sitia. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30708" ch="KRITI TV1">Kriti TV1 is a television network broadcasting from Chania. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+
+	<!-- SOUTH AEGEAN -->
+	<string id="30721" ch="KOSMOS">Kosmos TV is a television network broadcasting from Rhodes. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30722" ch="IRIDA TV">Irida TV is a television network broadcasting from Rhodes. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30723" ch="TV AIGAIO">AIGAIO TV is a television network broadcasting from Kalymnos. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30724" ch="OMEGA TV">OMEGA TV is a television network broadcasting from Rhodes. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30725" ch="DIRAS TV">DIRAS TV is a television network broadcasting from Kos. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30726" ch="TV12">TV12 is a television network broadcasting from Kalymnos. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30727" ch="RODOS TV4">RODOS TV4 is a television network broadcasting from Rhodes. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+
+	<!-- NORTH AEGEAN -->
+	<string id="30741" ch="TVM">TVM is a television network broadcasting from Mytilene. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30742" ch="PATRIDA TV">Patrida TV is a television network broadcasting from Chios. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30743" ch="ALITHIA TV">Alithia TV is a television network broadcasting from Chios. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+
+	<!-- CYCLADES -->
+	<string id="30761" ch="SYROS TV1">Syros TV1 is a television network broadcasting from Syros. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30762" ch="ZEUS TV">Zeus TV is a television network broadcasting from Naxos. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+
+	<!-- WEST MACEDONIA -->
+	<string id="30781" ch="WEST CHANNEL">West Channel is a television network broadcasting from Kozani. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30782" ch="FLASH TV">Flash TV is a television network broadcasting from Kozani. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30783" ch="TOP CHANNEL">Top Channel is a television network broadcasting from Kozani. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30784" ch="TRM">T.R.M. is a television network broadcasting from Grevena. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30785" ch="SUPER 28">SUPER 28 is a television network broadcasting from Grevena. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+
+	<!-- EAST MACEDONIA -->
+	<string id="30801" ch="DIKTYO TV">Diktyo TV is a television network broadcasting from Serres. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30802" ch="TELE EPILOGES">TELE EPILOGES is a television network broadcasting from Serres. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30803" ch="ENA CHANNEL">Ena Channel is a television network broadcasting from Kavala. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30804" ch="STAR TV DRAMA">Star TV is a television network broadcasting from Drama. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30805" ch="CENTER TV">Center TV is a television network broadcasting from Kavala. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30806" ch="ALFA TV">ALFA TV is a television network broadcasting from Drama. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30807" ch="TVS">TVS is a television network broadcasting from Serres. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30808" ch="TV DELTA">TV Delta is a television network broadcasting from Drama. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+
+	<!-- THRACE -->
+	<string id="30821" ch="DELTA TV">Delta TV is a television network broadcasting from Alexandroupolis. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30822" ch="THRAKI NET">Thraki NET is a television network broadcasting from Alexandroupolis. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30823" ch="R CHANNEL">R Channel is a television network broadcasting from Komotini. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30824" ch="KANALI 6">Kanali 6 is a television network broadcasting from Xanthi. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30825" ch="ORESTIADA TV">Orestiada TV is a television network broadcasting from Orestiada. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+	<string id="30826" ch="HOME SHOP">Home Shop is a television network broadcasting from Alexandroupolis. The programming consists mainly of Greek programmes such as news and entertainment shows.</string>
+</strings>

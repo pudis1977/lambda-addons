@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30020">
+		<setting id="meta" type="bool" label="30021" default="true"/>
+		<setting id="fanart"   type="bool" label="30022" default="true" enable="!eq(-1,false)"/>
+	</category>
+	<category label="30040">
+		<setting id="movie_library" type="folder" label="30042" default="special://userdata/addon_data/plugin.video.iwannawatch/Movies"/>
+		<setting type="lsep" label="[CR]"/>
+		<setting type="lsep" label="30041"/>
+	</category>
+	<category label="30060">
+		<setting id="downloads" type="folder" label="30061" default=""/>
+	</category>
+	<category label="30080">
+		<setting id="subs" type="enum" label="30083" lvalues="30084|30085" default="0" />
+		<setting type="lsep" label="[CR]"/>
+		<setting type="lsep" label="30081"/>
+		<setting type="lsep" label="30082"/>
+	</category>
+</settings>

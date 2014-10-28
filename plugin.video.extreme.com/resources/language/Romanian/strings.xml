@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Settings -->
+	<string id="30000">General</string>
+	<string id="30001">Calitate HD când este disponibilă</string>
+	<string id="30002">Clipuri utilizator</string>
+	<!-- Info -->
+	<string id="30301"></string>
+	<string id="30302"> este activat implicit</string>
+	<string id="30303">Nu există fluxuri disponibile</string>
+	<!-- OK -->
+	<string id="30321">Suplimentul YouTube nu este instalat.</string>
+	<string id="30322">Acest flux îl utilizează.</string>
+	<!-- Misc -->
+	<string id="30361">Următoarea pagină</string>
+	<string id="30362">Căutare</string>
+	<!-- ContextMenu -->
+	<string id="30401">Redare</string>
+	<string id="30402">Redare aleatorie</string>
+	<string id="30403">Redare de aici</string>
+	<string id="30404">Lista de așteptare</string>
+	<string id="30405">Adaugă clip în lista de așteptare</string>
+	<string id="30406">Descarcă clip</string>
+	<string id="30407">Configurare supliment</string>
+	<string id="30408">Rulează acum...</string>
+	<string id="30409">Acasă...</string>
+	<string id="30410">Setează vizualizarea clipurilor</string>
+	<!-- Description -->
+	<string id="30450">Extreme Sports</string>
+	<!-- Labels -->
+	<string id="30501">Toate clipurile</string>
+	<string id="30502">Clipuri utilizator</string>
+	<string id="30503">MTB</string>
+	<string id="30504">BMX</string>
+	<string id="30505">Skate</string>
+	<string id="30506">Snowboard</string>
+	<string id="30507">Freeski</string>
+	<string id="30508">FMX</string>
+	<string id="30509">MX</string>
+	<string id="30510">Surf</string>
+	<string id="30511">Auto Sports</string>
+	<string id="30512">Kayak</string>
+	<string id="30513">Kitesurf</string>
+	<string id="30514">Outdoor</string>
+	<string id="30515">Wake</string>
+	<string id="30516">Windsurf</string>
+</strings>

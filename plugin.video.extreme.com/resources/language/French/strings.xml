@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Settings -->
+	<string id="30000">Général</string>
+	<string id="30001">Qualité HD si disponible</string>
+	<string id="30002">Vidéos des utilisateurs</string>
+	<!-- Info -->
+	<string id="30301"></string>
+	<string id="30302"> est actif par défaut</string>
+	<string id="30303">Pas de source du média disponible</string>
+	<!-- OK -->
+	<string id="30321">YouTube n'est pas installé.</string>
+	<string id="30322">Cette source de media en a besoin.</string>
+	<!-- Misc -->
+	<string id="30361">Page Suivante</string>
+	<string id="30362">Recherche</string>
+	<!-- ContextMenu -->
+	<string id="30401">Lecture</string>
+	<string id="30402">Lecture Aléatoire</string>
+	<string id="30403">Lecture depuis ce point</string>
+	<string id="30404">Videos en attente</string>
+	<string id="30405">Mettre la vidéo en attente</string>
+	<string id="30406">Télécharger la vidéo</string>
+	<string id="30407">Paramètres de l'extension</string>
+	<string id="30408">Liste de lecture...</string>
+	<string id="30409">Retour à l'acceuil...</string>
+	<string id="30410">Vue Globale</string>
+	<!-- Description -->
+	<string id="30450">Extreme Sports</string>
+	<!-- Labels -->
+	<string id="30501">Toutes les vidéos</string>
+	<string id="30502">Vidéos des utilisateurs</string>
+	<string id="30503">MTB</string>
+	<string id="30504">BMX</string>
+	<string id="30505">Skate</string>
+	<string id="30506">Snowboard</string>
+	<string id="30507">Freeski</string>
+	<string id="30508">FMX</string>
+	<string id="30509">MX</string>
+	<string id="30510">Surf</string>
+	<string id="30511">Auto Sports</string>
+	<string id="30512">Kayak</string>
+	<string id="30513">Kitesurf</string>
+	<string id="30514">Outdoor</string>
+	<string id="30515">Wake</string>
+	<string id="30516">Windsurf</string>
+</strings>
