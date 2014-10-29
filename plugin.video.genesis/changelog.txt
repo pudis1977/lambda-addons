@@ -1,4 +1,13 @@
 ------------------------
+Genesis v3.0.1 (29-Oct-14)
+------------------------
+
+- Tweaked playback functions.
+- Updated translations.
+- Code cosmetics.
+
+
+------------------------
 Genesis v3.0.0 (27-Oct-14)
 ------------------------
 

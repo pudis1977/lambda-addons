@@ -56,7 +56,7 @@ class main:
     def __init__(self):
         global action
         index().container_data()
-        index().settings_reset()
+        #index().settings_reset()
         params = {}
         splitparams = sys.argv[2][sys.argv[2].find('?') + 1:].split('&')
         for param in splitparams:
@@ -307,7 +307,7 @@ class player(xbmc.Player):
             try: self.currentTime = self.getTime()
             except: pass
             xbmc.sleep(1000)
-        xbmc.sleep(5000)
+        time.sleep(5)
 
     def video_info(self, content, name, imdb):
         try:
