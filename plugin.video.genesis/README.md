@@ -9,15 +9,14 @@ The origins of streaming
 
 Attributions
 ---------------------
-- GKDecrypter by shani_08 | http://tvaddons.ag
+- Gkdecrypter by shani_08 | http://tvaddons.ag
 - Download Script by spoyser | http://tvaddons.ag
 - 4orbs theme by Marquerite | http://tvaddons.ag
-- Aztec theme by azad720 | http://tvaddons.ag
 - Clean theme by jokster | http://tvaddons.ag
-- Deep Blue theme by rayw1986 | http://tvaddons.ag
 - Embossed theme by jokster | http://tvaddons.ag
 - GOne theme by jokster | http://tvaddons.ag
 - Dutch translation by dynamic2 | http://tvaddons.ag
+- Greek translation by mezger | http://tvaddons.ag
 - Hebrew translation by finalmakerr | http://tvaddons.ag
 - Polish translation by kodishu | http://tvaddons.ag
 - Portuguese translation by Mafarricos | http://tvaddons.ag

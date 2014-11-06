@@ -1,4 +1,38 @@
 ------------------------
+Genesis v3.1.0 (6-Nov-14)
+------------------------
+
+- Added Yourflix source.
+- Added HDlord source.
+- Added MovieTV source.
+- Tweaked Directdownload source.
+- Tweaked TVrelease source.
+- Tweaked Watchseries source.
+- Fixed issues with Furk source.
+- Removed Shush source.
+- Re-work of Latest Movies.
+- Re-work of Latest Episodes.
+- Added support for Trakt Progress.
+- Tweaked detection of new episodes.
+- Added options for main menu sections.
+- Replaced Actor Search with People Search.
+- Added Latest HD Movies in Movies.
+- Added Latest Movies in Movies.
+- Added Favourites in Movies.
+- Added Latest Episodes in TV Shows.
+- Added Trakt Episodes in My Genesis.
+- Added Trakt Progress in My Genesis.
+- Added TV Calendar in TV Shows.
+- Added Favourites in TV Shows.
+- Removed Aztec and Deep Blue themes.
+- Updated available themes.
+- Re-work of IMDb listings.
+- Tweaked channel listings.
+- Updated translations.
+- Code cosmetics.
+
+
+------------------------
 Genesis v3.0.1 (29-Oct-14)
 ------------------------
 

@@ -37,6 +37,7 @@ def get(url):
     elif 'docs.google.com' in url:      url = googledocs(url)
     elif 'picasaweb.google.com' in url: url = picasaweb(url)
     elif 'youtube.com' in url:          url = youtube(url)
+    elif 'odnoklassniki.ru' in url:     url = odnoklassniki(url)
     elif 'videomega.tv' in url:         url = videomega(url)
     elif 'movreel.com' in url:          url = movreel(url)
     elif 'v-vids.com' in url:           url = v_vids(url)
@@ -150,6 +151,28 @@ def youtube(url):
         if state == 'deleted' or state == 'rejected' or state == 'failed' or reason == 'requesterRegion' : return
 
         url = 'plugin://plugin.video.youtube/?action=play_video&videoid=%s' % id
+        return url
+    except:
+        return
+
+def odnoklassniki(url):
+    try:
+        url = [i for i in url.split('/') if i.isdigit()][-1]
+        url = 'http://www.odnoklassniki.ru/dk?cmd=videoPlayerMetadata&mid=%s' % url
+
+        result = getUrl(url).result
+        result = json.loads(result)
+
+        a = "&start=0|User-Agent=%s" % urllib.quote_plus('Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36')
+        u = result['videos']
+
+        url = []
+        try: url += [[{'quality': 'HD', 'url': i['url'] + a} for i in u if i['name'] == 'hd'][0]]
+        except: pass
+        try: url += [[{'quality': 'SD', 'url': i['url'] + a} for i in u if i['name'] == 'sd'][0]]
+        except: pass
+
+        if url == []: return
         return url
     except:
         return
