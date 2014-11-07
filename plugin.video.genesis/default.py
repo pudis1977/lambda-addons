@@ -1768,6 +1768,8 @@ class contextMenu:
 
     def library_tv_processor(self, name, year, imdb, tvdb, limit=False):
         try:
+            dt = datetime.datetime.utcnow() - datetime.timedelta(hours = 5)
+
             match = episodes().get(name, year, imdb, tvdb, idx=False)
             match = match[1]['episodes']
         except:
@@ -1799,7 +1801,11 @@ class contextMenu:
                 if not xbmcvfs.exists(tvLibrary): xbmcvfs.mkdir(tvLibrary)
 
                 name, title, year, imdb, tvdb, season, episode, show, show_alt, date, genre, url = i['name'], i['title'], i['year'], i['imdb'], i['tvdb'], i['season'], i['episode'], i['show'], i['show_alt'], i['date'], i['genre'], i['url']
+
+                if int(re.sub('[^0-9]', '', str(date)) + '0000') + 10500 > int(dt.strftime("%Y%m%d%H%M")): raise Exception()
+
                 sysname, systitle, sysyear, sysimdb, systvdb, sysseason, sysepisode, sysshow, sysshow_alt, sysdate, sysgenre, sysurl = urllib.quote_plus(name), urllib.quote_plus(title), urllib.quote_plus(year), urllib.quote_plus(imdb), urllib.quote_plus(tvdb), urllib.quote_plus(season), urllib.quote_plus(episode), urllib.quote_plus(show), urllib.quote_plus(show_alt), urllib.quote_plus(date), urllib.quote_plus(genre), urllib.quote_plus(url)
+
                 content = '%s?action=play&name=%s&title=%s&year=%s&imdb=%s&tvdb=%s&season=%s&episode=%s&show=%s&show_alt=%s&date=%s&genre=%s&url=%s' % (sys.argv[0], sysname, systitle, sysyear, sysimdb, systvdb, sysseason, sysepisode, sysshow, sysshow_alt, sysdate, sysgenre, sysurl)
 
                 enc_show = show_alt.translate(None, '\/:*?"<>|').strip('.')
@@ -6719,7 +6725,7 @@ class einthusan:
 
 class myvideolinks:
     def __init__(self):
-        self.base_link = 'http://myvideolinks.eu'
+        self.base_link = 'http://movies.myvideolinks.eu'
         self.search_link = '/?s=%s'
 
     def get_movie(self, imdb, title, year):

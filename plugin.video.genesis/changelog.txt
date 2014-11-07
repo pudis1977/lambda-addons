@@ -1,4 +1,13 @@
 ------------------------
+Genesis v3.1.1 (7-Nov-14)
+------------------------
+
+- Fixed issue with Myvideolinks source.
+- Tweaked detection of new episodes.
+- Code cosmetics.
+
+
+------------------------
 Genesis v3.1.0 (6-Nov-14)
 ------------------------
 
